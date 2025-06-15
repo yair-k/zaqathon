@@ -39,10 +39,12 @@ export async function ingestSamples() {
     console.error('Please check your .env file contains GROQ_API_KEY');
     process.exit(1);
   }
-  
-  console.log('Environment variables loaded successfully');
+    console.log('Environment variables loaded successfully');
     // Load catalog first
   await loadCatalog();
+  
+  // Clear existing orders to avoid duplicates
+  db.clearOrders();
   
   // Point to the correct data directory (up two levels from apps/api/src to reach zaqathon/data)
   const samplesDir = path.join(__dirname, '../../../data');

@@ -25,11 +25,16 @@ export default function OrderPage() {
   const router = useRouter();
   const orderId = params.id as string;
   const [activePane, setActivePane] = useState<'email' | 'validation' | 'pdf'>('validation');
-
   const { data: order, isLoading } = useQuery({
     queryKey: ['order', orderId],
     queryFn: () => api.getOrder(orderId),
     enabled: !!orderId,
+  });
+
+  const { data: emailData } = useQuery({
+    queryKey: ['orderEmail', orderId],
+    queryFn: () => api.getOrderEmail(orderId),
+    enabled: !!orderId && activePane === 'email',
   });
 
   const handleDownloadPDF = async () => {
@@ -235,13 +240,15 @@ export default function OrderPage() {
                   {activePane === 'pdf' && 'Generated sales order form'}
                 </CardDescription>
               </CardHeader>
-              <CardContent>
-                {activePane === 'email' && (
+              <CardContent>                {activePane === 'email' && (
                   <div className="bg-muted rounded-lg p-4 font-mono text-sm whitespace-pre-wrap">
-                    {/* This would show the original email content */}
-                    <p className="text-muted-foreground">
-                      Email content would be displayed here from the original file: {order.meta.emailFile}
-                    </p>
+                    {emailData ? (
+                      emailData.content
+                    ) : (
+                      <p className="text-muted-foreground">
+                        Loading email content...
+                      </p>
+                    )}
                   </div>
                 )}
 

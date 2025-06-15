@@ -8,10 +8,15 @@ export const api = {
     if (!response.ok) throw new Error('Failed to fetch orders');
     return response.json();
   },
-
   async getOrder(id: string): Promise<Order> {
     const response = await fetch(`${API_BASE}/orders/${id}`);
     if (!response.ok) throw new Error('Failed to fetch order');
+    return response.json();
+  },
+
+  async getOrderEmail(id: string): Promise<{ content: string }> {
+    const response = await fetch(`${API_BASE}/orders/${id}/email`);
+    if (!response.ok) throw new Error('Failed to fetch email');
     return response.json();
   },
 

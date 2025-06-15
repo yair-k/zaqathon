@@ -118,9 +118,13 @@ class SimpleDB {
       return [];
     }
   }
-
   private saveOrders(orders: OrderRecord[]) {
     fs.writeFileSync(ordersFile, JSON.stringify(orders, null, 2));
+  }
+
+  clearOrders() {
+    this.saveOrders([]);
+    console.log('All orders cleared from database');
   }
 }
 

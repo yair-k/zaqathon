@@ -1,122 +1,62 @@
 [
   {
-    "id": "57791946-ff47-427f-a86c-19648c17c966",
+    "id": "68a83c44-f8ef-4f45-bc2f-c23f96f28062",
     "email_file": "sample_emails\\sample_email_1.txt",
-    "processed_at": "2025-06-15T21:30:45.170Z",
-    "customer_name": "Unknown Customer",
-    "customer_address": "Address not found",
-    "delivery_date": "not specified",
-    "delivery_address": "Address not found",
-    "overall_confidence": 0,
-    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\57791946-ff47-427f-a86c-19648c17c966.pdf",
-    "data": "{\"orderId\":\"57791946-ff47-427f-a86c-19648c17c966\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_1.txt\",\"processedAt\":\"2025-06-15T21:30:45.170Z\",\"confidence\":0},\"customer\":{\"name\":\"Unknown Customer\",\"address\":\"Address not found\"},\"items\":[],\"delivery\":{\"date\":\"not specified\",\"address\":\"Address not found\"},\"overallConfidence\":0,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\57791946-ff47-427f-a86c-19648c17c966.pdf\"}"
-  },
-  {
-    "id": "e3911ab7-e8e4-409e-90e2-a2fdfd83cb82",
-    "email_file": "sample_emails\\sample_email_2.txt",
-    "processed_at": "2025-06-15T21:30:45.268Z",
-    "customer_name": "Unknown Customer",
-    "customer_address": "Address not found",
-    "delivery_date": "not specified",
-    "delivery_address": "Address not found",
-    "overall_confidence": 0,
-    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\e3911ab7-e8e4-409e-90e2-a2fdfd83cb82.pdf",
-    "data": "{\"orderId\":\"e3911ab7-e8e4-409e-90e2-a2fdfd83cb82\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_2.txt\",\"processedAt\":\"2025-06-15T21:30:45.268Z\",\"confidence\":0},\"customer\":{\"name\":\"Unknown Customer\",\"address\":\"Address not found\"},\"items\":[],\"delivery\":{\"date\":\"not specified\",\"address\":\"Address not found\"},\"overallConfidence\":0,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\e3911ab7-e8e4-409e-90e2-a2fdfd83cb82.pdf\"}"
-  },
-  {
-    "id": "96d7f76f-e356-4c6a-a6ea-0f9993ff9aff",
-    "email_file": "sample_emails\\sample_email_3.txt",
-    "processed_at": "2025-06-15T21:30:45.336Z",
-    "customer_name": "Unknown Customer",
-    "customer_address": "Address not found",
-    "delivery_date": "not specified",
-    "delivery_address": "Address not found",
-    "overall_confidence": 0,
-    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\96d7f76f-e356-4c6a-a6ea-0f9993ff9aff.pdf",
-    "data": "{\"orderId\":\"96d7f76f-e356-4c6a-a6ea-0f9993ff9aff\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_3.txt\",\"processedAt\":\"2025-06-15T21:30:45.336Z\",\"confidence\":0},\"customer\":{\"name\":\"Unknown Customer\",\"address\":\"Address not found\"},\"items\":[],\"delivery\":{\"date\":\"not specified\",\"address\":\"Address not found\"},\"overallConfidence\":0,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\96d7f76f-e356-4c6a-a6ea-0f9993ff9aff.pdf\"}"
-  },
-  {
-    "id": "5f5ab1fb-3498-446a-9469-966f22865124",
-    "email_file": "sample_emails\\sample_email_4.txt",
-    "processed_at": "2025-06-15T21:30:45.395Z",
-    "customer_name": "Unknown Customer",
-    "customer_address": "Address not found",
-    "delivery_date": "not specified",
-    "delivery_address": "Address not found",
-    "overall_confidence": 0,
-    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\5f5ab1fb-3498-446a-9469-966f22865124.pdf",
-    "data": "{\"orderId\":\"5f5ab1fb-3498-446a-9469-966f22865124\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_4.txt\",\"processedAt\":\"2025-06-15T21:30:45.395Z\",\"confidence\":0},\"customer\":{\"name\":\"Unknown Customer\",\"address\":\"Address not found\"},\"items\":[],\"delivery\":{\"date\":\"not specified\",\"address\":\"Address not found\"},\"overallConfidence\":0,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\5f5ab1fb-3498-446a-9469-966f22865124.pdf\"}"
-  },
-  {
-    "id": "30978206-50e2-4d8a-b383-db91e3050479",
-    "email_file": "sample_emails\\sample_email_5.txt",
-    "processed_at": "2025-06-15T21:30:45.475Z",
-    "customer_name": "Unknown Customer",
-    "customer_address": "Address not found",
-    "delivery_date": "not specified",
-    "delivery_address": "Address not found",
-    "overall_confidence": 0,
-    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\30978206-50e2-4d8a-b383-db91e3050479.pdf",
-    "data": "{\"orderId\":\"30978206-50e2-4d8a-b383-db91e3050479\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_5.txt\",\"processedAt\":\"2025-06-15T21:30:45.475Z\",\"confidence\":0},\"customer\":{\"name\":\"Unknown Customer\",\"address\":\"Address not found\"},\"items\":[],\"delivery\":{\"date\":\"not specified\",\"address\":\"Address not found\"},\"overallConfidence\":0,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\30978206-50e2-4d8a-b383-db91e3050479.pdf\"}"
-  },
-  {
-    "id": "f1002999-47de-46a3-9bd1-910028d3df35",
-    "email_file": "sample_emails\\sample_email_1.txt",
-    "processed_at": "2025-06-15T21:31:13.692Z",
+    "processed_at": "2025-06-15T21:38:50.996Z",
     "customer_name": "John Smith",
     "customer_address": "123 Maple Street, Springfield, IL 62704",
     "delivery_date": "2025-06-20",
     "delivery_address": "123 Maple Street, Springfield, IL 62704",
     "overall_confidence": 0.8,
-    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\f1002999-47de-46a3-9bd1-910028d3df35.pdf",
-    "data": "{\"orderId\":\"f1002999-47de-46a3-9bd1-910028d3df35\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_1.txt\",\"processedAt\":\"2025-06-15T21:31:13.692Z\",\"confidence\":0.8},\"customer\":{\"name\":\"John Smith\",\"address\":\"123 Maple Street, Springfield, IL 62704\"},\"items\":[{\"sku\":\"CFT-0167\",\"qty\":9,\"validations\":[],\"suggestions\":[\"Mapped \\\"Coffee STRÅDAL 620\\\" to CFT-0167: Coffee STRÅDAL 620\"],\"conf\":0.8},{\"sku\":\"LVS-0439\",\"qty\":2,\"validations\":[],\"suggestions\":[\"Mapped \\\"Loveseat HEMNHOLM 512\\\" to LVS-0439: Loveseat HEMNHOLM 512\"],\"conf\":0.8},{\"sku\":\"SFA-0142\",\"qty\":10,\"validations\":[],\"suggestions\":[\"Mapped \\\"Sofa VIKTMARK 446\\\" to SFA-0142: Sofa VIKTMARK 446\"],\"conf\":0.8},{\"sku\":\"WRD-0267\",\"qty\":8,\"validations\":[\"Insufficient stock. Available: 3, Requested: 8\"],\"suggestions\":[\"Mapped \\\"Wardrobe LUNDLUND 757\\\" to WRD-0267: Wardrobe LUNDLUND 757\"],\"conf\":0.8}],\"delivery\":{\"date\":\"2025-06-20\",\"address\":\"123 Maple Street, Springfield, IL 62704\"},\"overallConfidence\":0.8,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\f1002999-47de-46a3-9bd1-910028d3df35.pdf\"}"
+    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\68a83c44-f8ef-4f45-bc2f-c23f96f28062.pdf",
+    "data": "{\"orderId\":\"68a83c44-f8ef-4f45-bc2f-c23f96f28062\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_1.txt\",\"processedAt\":\"2025-06-15T21:38:50.996Z\",\"confidence\":0.8},\"customer\":{\"name\":\"John Smith\",\"address\":\"123 Maple Street, Springfield, IL 62704\"},\"items\":[{\"sku\":\"CFT-0167\",\"qty\":9,\"validations\":[],\"suggestions\":[\"Mapped \\\"Coffee STRÅDAL 620\\\" to CFT-0167: Coffee STRÅDAL 620\"],\"conf\":0.8},{\"sku\":\"LVS-0439\",\"qty\":2,\"validations\":[],\"suggestions\":[\"Mapped \\\"Loveseat HEMNHOLM 512\\\" to LVS-0439: Loveseat HEMNHOLM 512\"],\"conf\":0.8},{\"sku\":\"SFA-0142\",\"qty\":10,\"validations\":[],\"suggestions\":[\"Mapped \\\"Sofa VIKTMARK 446\\\" to SFA-0142: Sofa VIKTMARK 446\"],\"conf\":0.8},{\"sku\":\"WRD-0267\",\"qty\":8,\"validations\":[\"Insufficient stock. Available: 3, Requested: 8\"],\"suggestions\":[\"Mapped \\\"Wardrobe LUNDLUND 757\\\" to WRD-0267: Wardrobe LUNDLUND 757\"],\"conf\":0.8}],\"delivery\":{\"date\":\"2025-06-20\",\"address\":\"123 Maple Street, Springfield, IL 62704\"},\"overallConfidence\":0.8,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\68a83c44-f8ef-4f45-bc2f-c23f96f28062.pdf\"}"
   },
   {
-    "id": "916dd2d3-4a8d-440b-9ff2-2072ac928587",
+    "id": "9a6bd346-cd40-4f5e-b2a3-d78a3e9d4593",
     "email_file": "sample_emails\\sample_email_2.txt",
-    "processed_at": "2025-06-15T21:31:14.188Z",
+    "processed_at": "2025-06-15T21:38:51.480Z",
     "customer_name": "Lena Müller",
     "customer_address": "not specified",
     "delivery_date": "2025-07-01",
     "delivery_address": "45 Königstraße, Stuttgart, Germany",
     "overall_confidence": 0.8,
-    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\916dd2d3-4a8d-440b-9ff2-2072ac928587.pdf",
-    "data": "{\"orderId\":\"916dd2d3-4a8d-440b-9ff2-2072ac928587\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_2.txt\",\"processedAt\":\"2025-06-15T21:31:14.188Z\",\"confidence\":0.8},\"customer\":{\"name\":\"Lena Müller\",\"address\":\"not specified\"},\"items\":[{\"sku\":\"BDF-0213\",\"qty\":2,\"validations\":[],\"suggestions\":[\"Mapped \\\"Bed TRÄNBERG 858\\\" to BDF-0213: Bed TRÄNBERG 858\"],\"conf\":0.8},{\"sku\":\"DCH-0077\",\"qty\":5,\"validations\":[\"Below minimum order quantity. MOQ: 10, Requested: 5\"],\"suggestions\":[\"Mapped \\\"Dining FJÄRDAL 292\\\" to DCH-0077: Dining FJÄRDAL 292\"],\"conf\":0.8}],\"delivery\":{\"date\":\"2025-07-01\",\"address\":\"45 Königstraße, Stuttgart, Germany\"},\"overallConfidence\":0.8,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\916dd2d3-4a8d-440b-9ff2-2072ac928587.pdf\"}"
+    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\9a6bd346-cd40-4f5e-b2a3-d78a3e9d4593.pdf",
+    "data": "{\"orderId\":\"9a6bd346-cd40-4f5e-b2a3-d78a3e9d4593\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_2.txt\",\"processedAt\":\"2025-06-15T21:38:51.480Z\",\"confidence\":0.8},\"customer\":{\"name\":\"Lena Müller\",\"address\":\"not specified\"},\"items\":[{\"sku\":\"BDF-0213\",\"qty\":2,\"validations\":[],\"suggestions\":[\"Mapped \\\"Bed TRÄNBERG 858\\\" to BDF-0213: Bed TRÄNBERG 858\"],\"conf\":0.8},{\"sku\":\"DCH-0077\",\"qty\":5,\"validations\":[\"Below minimum order quantity. MOQ: 10, Requested: 5\"],\"suggestions\":[\"Mapped \\\"Dining FJÄRDAL 292\\\" to DCH-0077: Dining FJÄRDAL 292\"],\"conf\":0.8}],\"delivery\":{\"date\":\"2025-07-01\",\"address\":\"45 Königstraße, Stuttgart, Germany\"},\"overallConfidence\":0.8,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\9a6bd346-cd40-4f5e-b2a3-d78a3e9d4593.pdf\"}"
   },
   {
-    "id": "10f97f07-7ef7-4815-8e00-2971b37acc93",
+    "id": "52ec9eab-4d97-478a-81f2-48d424819e06",
     "email_file": "sample_emails\\sample_email_3.txt",
-    "processed_at": "2025-06-15T21:31:14.753Z",
+    "processed_at": "2025-06-15T21:38:52.038Z",
     "customer_name": "Carlos Ramirez",
     "customer_address": "Av. Insurgentes Sur 3500, Mexico City",
     "delivery_date": "2025-06-22",
     "delivery_address": "Av. Insurgentes Sur 3500, Mexico City",
     "overall_confidence": 0.8,
-    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\10f97f07-7ef7-4815-8e00-2971b37acc93.pdf",
-    "data": "{\"orderId\":\"10f97f07-7ef7-4815-8e00-2971b37acc93\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_3.txt\",\"processedAt\":\"2025-06-15T21:31:14.753Z\",\"confidence\":0.8},\"customer\":{\"name\":\"Carlos Ramirez\",\"address\":\"Av. Insurgentes Sur 3500, Mexico City\"},\"items\":[{\"sku\":\"BST-0299\",\"qty\":3,\"validations\":[\"Below minimum order quantity. MOQ: 10, Requested: 3\"],\"suggestions\":[\"Mapped \\\"Bar FJÄRMARK 344\\\" to BST-0299: Bar FJÄRMARK 344\"],\"conf\":0.8},{\"sku\":\"ODT-0389\",\"qty\":3,\"validations\":[\"Below minimum order quantity. MOQ: 10, Requested: 3\"],\"suggestions\":[\"Mapped \\\"Outdoor VALLHOLM 134\\\" to ODT-0389: Outdoor VALLHOLM 134\"],\"conf\":0.8},{\"sku\":\"CST-0494\",\"qty\":7,\"validations\":[\"Below minimum order quantity. MOQ: 10, Requested: 7\"],\"suggestions\":[\"Mapped \\\"Console LUNDBERG 220\\\" to CST-0494: Console LUNDBERG 220\"],\"conf\":0.8},{\"sku\":\"CST-0482\",\"qty\":3,\"validations\":[],\"suggestions\":[\"Mapped \\\"Console VALLSUND 240\\\" to CST-0482: Console VALLSUND 240\"],\"conf\":0.8}],\"delivery\":{\"date\":\"2025-06-22\",\"address\":\"Av. Insurgentes Sur 3500, Mexico City\"},\"overallConfidence\":0.8,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\10f97f07-7ef7-4815-8e00-2971b37acc93.pdf\"}"
+    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\52ec9eab-4d97-478a-81f2-48d424819e06.pdf",
+    "data": "{\"orderId\":\"52ec9eab-4d97-478a-81f2-48d424819e06\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_3.txt\",\"processedAt\":\"2025-06-15T21:38:52.038Z\",\"confidence\":0.8},\"customer\":{\"name\":\"Carlos Ramirez\",\"address\":\"Av. Insurgentes Sur 3500, Mexico City\"},\"items\":[{\"sku\":\"BST-0299\",\"qty\":3,\"validations\":[\"Below minimum order quantity. MOQ: 10, Requested: 3\"],\"suggestions\":[\"Mapped \\\"Bar FJÄRMARK 344\\\" to BST-0299: Bar FJÄRMARK 344\"],\"conf\":0.8},{\"sku\":\"ODT-0389\",\"qty\":3,\"validations\":[\"Below minimum order quantity. MOQ: 10, Requested: 3\"],\"suggestions\":[\"Mapped \\\"Outdoor VALLHOLM 134\\\" to ODT-0389: Outdoor VALLHOLM 134\"],\"conf\":0.8},{\"sku\":\"CST-0494\",\"qty\":7,\"validations\":[\"Below minimum order quantity. MOQ: 10, Requested: 7\"],\"suggestions\":[\"Mapped \\\"Console LUNDBERG 220\\\" to CST-0494: Console LUNDBERG 220\"],\"conf\":0.8},{\"sku\":\"CST-0482\",\"qty\":3,\"validations\":[],\"suggestions\":[\"Mapped \\\"Console VALLSUND 240\\\" to CST-0482: Console VALLSUND 240\"],\"conf\":0.8}],\"delivery\":{\"date\":\"2025-06-22\",\"address\":\"Av. Insurgentes Sur 3500, Mexico City\"},\"overallConfidence\":0.8,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\52ec9eab-4d97-478a-81f2-48d424819e06.pdf\"}"
   },
   {
-    "id": "d978d180-85c5-4189-aff5-1a5c890dabe1",
+    "id": "f80eae60-0b7a-42bb-a877-d79f33ee814e",
     "email_file": "sample_emails\\sample_email_4.txt",
-    "processed_at": "2025-06-15T21:31:15.287Z",
+    "processed_at": "2025-06-15T21:38:52.568Z",
     "customer_name": "Fatima Al-Sayeed",
     "customer_address": "Al-Mutannabi St, Beirut, Lebanon",
     "delivery_date": "2025-06-30",
     "delivery_address": "Al-Mutannabi St, Beirut, Lebanon",
     "overall_confidence": 0.8000000000000002,
-    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\d978d180-85c5-4189-aff5-1a5c890dabe1.pdf",
-    "data": "{\"orderId\":\"d978d180-85c5-4189-aff5-1a5c890dabe1\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_4.txt\",\"processedAt\":\"2025-06-15T21:31:15.287Z\",\"confidence\":0.8000000000000002},\"customer\":{\"name\":\"Fatima Al-Sayeed\",\"address\":\"Al-Mutannabi St, Beirut, Lebanon\"},\"items\":[{\"sku\":\"LVS-0445\",\"qty\":7,\"validations\":[],\"suggestions\":[\"Mapped \\\"Loveseat FJÄRBERG 744\\\" to LVS-0445: Loveseat FJÄRBERG 744\"],\"conf\":0.8},{\"sku\":\"WRD-0275\",\"qty\":8,\"validations\":[],\"suggestions\":[\"Mapped \\\"Wardrobe SNÖRSKÄR 220\\\" to WRD-0275: Wardrobe SNÖRSKÄR 220\"],\"conf\":0.8},{\"sku\":\"OTM-0451\",\"qty\":6,\"validations\":[],\"suggestions\":[\"Mapped \\\"Ottoman TRÄNSUND 415\\\" to OTM-0451: Ottoman TRÄNSUND 415\"],\"conf\":0.8}],\"delivery\":{\"date\":\"2025-06-30\",\"address\":\"Al-Mutannabi St, Beirut, Lebanon\"},\"overallConfidence\":0.8000000000000002,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\d978d180-85c5-4189-aff5-1a5c890dabe1.pdf\"}"
+    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\f80eae60-0b7a-42bb-a877-d79f33ee814e.pdf",
+    "data": "{\"orderId\":\"f80eae60-0b7a-42bb-a877-d79f33ee814e\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_4.txt\",\"processedAt\":\"2025-06-15T21:38:52.568Z\",\"confidence\":0.8000000000000002},\"customer\":{\"name\":\"Fatima Al-Sayeed\",\"address\":\"Al-Mutannabi St, Beirut, Lebanon\"},\"items\":[{\"sku\":\"LVS-0445\",\"qty\":7,\"validations\":[],\"suggestions\":[\"Mapped \\\"Loveseat FJÄRBERG 744\\\" to LVS-0445: Loveseat FJÄRBERG 744\"],\"conf\":0.8},{\"sku\":\"WRD-0275\",\"qty\":8,\"validations\":[],\"suggestions\":[\"Mapped \\\"Wardrobe SNÖRSKÄR 220\\\" to WRD-0275: Wardrobe SNÖRSKÄR 220\"],\"conf\":0.8},{\"sku\":\"OTM-0451\",\"qty\":6,\"validations\":[],\"suggestions\":[\"Mapped \\\"Ottoman TRÄNSUND 415\\\" to OTM-0451: Ottoman TRÄNSUND 415\"],\"conf\":0.8}],\"delivery\":{\"date\":\"2025-06-30\",\"address\":\"Al-Mutannabi St, Beirut, Lebanon\"},\"overallConfidence\":0.8000000000000002,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\f80eae60-0b7a-42bb-a877-d79f33ee814e.pdf\"}"
   },
   {
-    "id": "1c0a9155-1928-42f2-a3ff-0bb800a95df0",
+    "id": "d4d6bda3-a8e3-4f8b-b137-ca829904f47d",
     "email_file": "sample_emails\\sample_email_5.txt",
-    "processed_at": "2025-06-15T21:31:15.823Z",
+    "processed_at": "2025-06-15T21:38:53.105Z",
     "customer_name": "Yuki Tanaka",
     "customer_address": "2-11-3 Meguro, Tokyo, Japan",
     "delivery_date": "2025-06-18",
     "delivery_address": "2-11-3 Meguro, Tokyo, Japan",
     "overall_confidence": 0.8000000000000002,
-    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\1c0a9155-1928-42f2-a3ff-0bb800a95df0.pdf",
-    "data": "{\"orderId\":\"1c0a9155-1928-42f2-a3ff-0bb800a95df0\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_5.txt\",\"processedAt\":\"2025-06-15T21:31:15.823Z\",\"confidence\":0.8000000000000002},\"customer\":{\"name\":\"Yuki Tanaka\",\"address\":\"2-11-3 Meguro, Tokyo, Japan\"},\"items\":[{\"sku\":\"OFC-0336\",\"qty\":8,\"validations\":[\"Below minimum order quantity. MOQ: 10, Requested: 8\"],\"suggestions\":[\"Mapped \\\"Office LUNDMARK 699\\\" to OFC-0336: Office LUNDMARK 699\"],\"conf\":0.8},{\"sku\":\"NST-0249\",\"qty\":1,\"validations\":[],\"suggestions\":[\"Mapped \\\"Nightstand SNÖRFORS 19\\\" to NST-0249: Nightstand SNÖRFORS 19\"],\"conf\":0.8},{\"sku\":\"BST-0293\",\"qty\":3,\"validations\":[\"Below minimum order quantity. MOQ: 5, Requested: 3\"],\"suggestions\":[\"Mapped \\\"Bar MÖRKDAL 443\\\" to BST-0293: Bar MÖRKDAL 443\"],\"conf\":0.8}],\"delivery\":{\"date\":\"2025-06-18\",\"address\":\"2-11-3 Meguro, Tokyo, Japan\"},\"overallConfidence\":0.8000000000000002,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\1c0a9155-1928-42f2-a3ff-0bb800a95df0.pdf\"}"
+    "pdf_path": "C:\\Users\\joe\\Documents\\Important\\zaqa\\zaqa_assignment\\zaqathon\\apps\\api\\generated\\d4d6bda3-a8e3-4f8b-b137-ca829904f47d.pdf",
+    "data": "{\"orderId\":\"d4d6bda3-a8e3-4f8b-b137-ca829904f47d\",\"meta\":{\"emailFile\":\"sample_emails\\\\sample_email_5.txt\",\"processedAt\":\"2025-06-15T21:38:53.105Z\",\"confidence\":0.8000000000000002},\"customer\":{\"name\":\"Yuki Tanaka\",\"address\":\"2-11-3 Meguro, Tokyo, Japan\"},\"items\":[{\"sku\":\"OFC-0336\",\"qty\":8,\"validations\":[\"Below minimum order quantity. MOQ: 10, Requested: 8\"],\"suggestions\":[\"Mapped \\\"Office LUNDMARK 699\\\" to OFC-0336: Office LUNDMARK 699\"],\"conf\":0.8},{\"sku\":\"NST-0249\",\"qty\":1,\"validations\":[],\"suggestions\":[\"Mapped \\\"Nightstand SNÖRFORS 19\\\" to NST-0249: Nightstand SNÖRFORS 19\"],\"conf\":0.8},{\"sku\":\"BST-0293\",\"qty\":3,\"validations\":[\"Below minimum order quantity. MOQ: 5, Requested: 3\"],\"suggestions\":[\"Mapped \\\"Bar MÖRKDAL 443\\\" to BST-0293: Bar MÖRKDAL 443\"],\"conf\":0.8}],\"delivery\":{\"date\":\"2025-06-18\",\"address\":\"2-11-3 Meguro, Tokyo, Japan\"},\"overallConfidence\":0.8000000000000002,\"pdfPath\":\"C:\\\\Users\\\\joe\\\\Documents\\\\Important\\\\zaqa\\\\zaqa_assignment\\\\zaqathon\\\\apps\\\\api\\\\generated\\\\d4d6bda3-a8e3-4f8b-b137-ca829904f47d.pdf\"}"
   }
 ]
