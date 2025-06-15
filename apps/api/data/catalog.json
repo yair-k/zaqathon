@@ -1,0 +1,4002 @@
+[
+  {
+    "sku": "DSK-0001",
+    "name": "Desk TRÄNHOLM 19",
+    "price": 902.78,
+    "stock": 31,
+    "moq": 2,
+    "description": "A modern desk named 'Desk TRÄNHOLM 19', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0002",
+    "name": "Desk NORDMARK 476",
+    "price": 167.87,
+    "stock": 94,
+    "moq": 1,
+    "description": "A modern desk named 'Desk NORDMARK 476', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0003",
+    "name": "Desk VIKTSTA 642",
+    "price": 84.27,
+    "stock": 27,
+    "moq": 2,
+    "description": "A modern desk named 'Desk VIKTSTA 642', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0004",
+    "name": "Desk SNÖRSUND 966",
+    "price": 278.66,
+    "stock": 83,
+    "moq": 10,
+    "description": "A modern desk named 'Desk SNÖRSUND 966', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0005",
+    "name": "Desk ÄLVAFORS 685",
+    "price": 727.66,
+    "stock": 0,
+    "moq": 2,
+    "description": "A modern desk named 'Desk ÄLVAFORS 685', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0006",
+    "name": "Desk BJÖRSTA 16",
+    "price": 369.55,
+    "stock": 27,
+    "moq": 5,
+    "description": "A modern desk named 'Desk BJÖRSTA 16', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0007",
+    "name": "Desk MÖRKMARK 431",
+    "price": 486.92,
+    "stock": 45,
+    "moq": 5,
+    "description": "A modern desk named 'Desk MÖRKMARK 431', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0008",
+    "name": "Desk KALLSTA 552",
+    "price": 99.97,
+    "stock": 58,
+    "moq": 1,
+    "description": "A modern desk named 'Desk KALLSTA 552', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0009",
+    "name": "Desk TRÄNSKÄR 558",
+    "price": 684.85,
+    "stock": 80,
+    "moq": 5,
+    "description": "A modern desk named 'Desk TRÄNSKÄR 558', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0010",
+    "name": "Desk HEMNSTA 524",
+    "price": 129.99,
+    "stock": 84,
+    "moq": 2,
+    "description": "A modern desk named 'Desk HEMNSTA 524', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0011",
+    "name": "Desk TRÄNSUND 450",
+    "price": 1033.62,
+    "stock": 12,
+    "moq": 10,
+    "description": "A modern desk named 'Desk TRÄNSUND 450', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0012",
+    "name": "Desk VALLHOLM 119",
+    "price": 781.04,
+    "stock": 46,
+    "moq": 2,
+    "description": "A modern desk named 'Desk VALLHOLM 119', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0013",
+    "name": "Desk LUNDMARK 162",
+    "price": 290.93,
+    "stock": 34,
+    "moq": 1,
+    "description": "A modern desk named 'Desk LUNDMARK 162', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0014",
+    "name": "Desk NORDVIK 644",
+    "price": 888.5,
+    "stock": 20,
+    "moq": 10,
+    "description": "A modern desk named 'Desk NORDVIK 644', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0015",
+    "name": "Desk MÖRKSKÄR 844",
+    "price": 1187.95,
+    "stock": 81,
+    "moq": 2,
+    "description": "A modern desk named 'Desk MÖRKSKÄR 844', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0016",
+    "name": "Desk VIKTSKÄR 824",
+    "price": 933.56,
+    "stock": 7,
+    "moq": 2,
+    "description": "A modern desk named 'Desk VIKTSKÄR 824', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0017",
+    "name": "Desk STRÅTORP 392",
+    "price": 412.77,
+    "stock": 34,
+    "moq": 1,
+    "description": "A modern desk named 'Desk STRÅTORP 392', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0018",
+    "name": "Desk STRÅFORS 588",
+    "price": 1057.82,
+    "stock": 40,
+    "moq": 2,
+    "description": "A modern desk named 'Desk STRÅFORS 588', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0019",
+    "name": "Desk NORDVIK 317",
+    "price": 1067.39,
+    "stock": 82,
+    "moq": 10,
+    "description": "A modern desk named 'Desk NORDVIK 317', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0020",
+    "name": "Desk SNÖRTORP 679",
+    "price": 210.57,
+    "stock": 95,
+    "moq": 5,
+    "description": "A modern desk named 'Desk SNÖRTORP 679', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0021",
+    "name": "Desk SNÖRSTA 105",
+    "price": 509.31,
+    "stock": 28,
+    "moq": 2,
+    "description": "A modern desk named 'Desk SNÖRSTA 105', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0022",
+    "name": "Desk STRÅDAL 396",
+    "price": 919.15,
+    "stock": 14,
+    "moq": 2,
+    "description": "A modern desk named 'Desk STRÅDAL 396', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0023",
+    "name": "Desk MÖRKFORS 67",
+    "price": 832.55,
+    "stock": 76,
+    "moq": 1,
+    "description": "A modern desk named 'Desk MÖRKFORS 67', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0024",
+    "name": "Desk SNÖRSTA 729",
+    "price": 735.27,
+    "stock": 59,
+    "moq": 5,
+    "description": "A modern desk named 'Desk SNÖRSTA 729', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DSK-0025",
+    "name": "Desk FJÄRTORP 521",
+    "price": 878.83,
+    "stock": 87,
+    "moq": 5,
+    "description": "A modern desk named 'Desk FJÄRTORP 521', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0026",
+    "name": "Desk STRÅSUND 813",
+    "price": 387.53,
+    "stock": 20,
+    "moq": 10,
+    "description": "A modern desk named 'Desk STRÅSUND 813', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0027",
+    "name": "Desk VIKTLUND 888",
+    "price": 1057.23,
+    "stock": 33,
+    "moq": 2,
+    "description": "A modern desk named 'Desk VIKTLUND 888', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0028",
+    "name": "Desk LUNDMARK 951",
+    "price": 769.1,
+    "stock": 81,
+    "moq": 2,
+    "description": "A modern desk named 'Desk LUNDMARK 951', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0029",
+    "name": "Desk KALLVIK 226",
+    "price": 926.89,
+    "stock": 69,
+    "moq": 1,
+    "description": "A modern desk named 'Desk KALLVIK 226', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0030",
+    "name": "Desk TRÄNLUND 496",
+    "price": 72.4,
+    "stock": 46,
+    "moq": 5,
+    "description": "A modern desk named 'Desk TRÄNLUND 496', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0031",
+    "name": "Desk HEMNSTA 956",
+    "price": 327,
+    "stock": 72,
+    "moq": 1,
+    "description": "A modern desk named 'Desk HEMNSTA 956', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0032",
+    "name": "Desk LUNDSUND 957",
+    "price": 608.89,
+    "stock": 8,
+    "moq": 2,
+    "description": "A modern desk named 'Desk LUNDSUND 957', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0033",
+    "name": "Desk HEMNMARK 587",
+    "price": 596.57,
+    "stock": 70,
+    "moq": 2,
+    "description": "A modern desk named 'Desk HEMNMARK 587', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0034",
+    "name": "Desk SNÖRSTA 193",
+    "price": 1053.3,
+    "stock": 54,
+    "moq": 2,
+    "description": "A modern desk named 'Desk SNÖRSTA 193', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0035",
+    "name": "Desk VIKTSTA 994",
+    "price": 408.47,
+    "stock": 85,
+    "moq": 5,
+    "description": "A modern desk named 'Desk VIKTSTA 994', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0036",
+    "name": "Desk NORDLUND 157",
+    "price": 569.21,
+    "stock": 31,
+    "moq": 2,
+    "description": "A modern desk named 'Desk NORDLUND 157', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0037",
+    "name": "Desk VALLDAL 961",
+    "price": 74.19,
+    "stock": 70,
+    "moq": 2,
+    "description": "A modern desk named 'Desk VALLDAL 961', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0038",
+    "name": "Desk LUNDSKÄR 176",
+    "price": 131.64,
+    "stock": 80,
+    "moq": 1,
+    "description": "A modern desk named 'Desk LUNDSKÄR 176', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0039",
+    "name": "Desk ÄLVAVIK 590",
+    "price": 1091.23,
+    "stock": 42,
+    "moq": 1,
+    "description": "A modern desk named 'Desk ÄLVAVIK 590', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0040",
+    "name": "Desk STRÅSUND 928",
+    "price": 819.32,
+    "stock": 27,
+    "moq": 2,
+    "description": "A modern desk named 'Desk STRÅSUND 928', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0041",
+    "name": "Desk MÖRKBERG 403",
+    "price": 952.31,
+    "stock": 52,
+    "moq": 2,
+    "description": "A modern desk named 'Desk MÖRKBERG 403', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0042",
+    "name": "Desk VALLHOLM 819",
+    "price": 807.83,
+    "stock": 45,
+    "moq": 10,
+    "description": "A modern desk named 'Desk VALLHOLM 819', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0043",
+    "name": "Desk TRÄNTORP 522",
+    "price": 1043.41,
+    "stock": 6,
+    "moq": 1,
+    "description": "A modern desk named 'Desk TRÄNTORP 522', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0044",
+    "name": "Desk TRÄNBERG 64",
+    "price": 887.45,
+    "stock": 13,
+    "moq": 2,
+    "description": "A modern desk named 'Desk TRÄNBERG 64', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0045",
+    "name": "Desk LUNDDAL 247",
+    "price": 666.73,
+    "stock": 17,
+    "moq": 10,
+    "description": "A modern desk named 'Desk LUNDDAL 247', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0046",
+    "name": "Desk LUNDBERG 629",
+    "price": 582.02,
+    "stock": 9,
+    "moq": 10,
+    "description": "A modern desk named 'Desk LUNDBERG 629', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0047",
+    "name": "Desk VALLLUND 987",
+    "price": 799.97,
+    "stock": 69,
+    "moq": 1,
+    "description": "A modern desk named 'Desk VALLLUND 987', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0048",
+    "name": "Desk ÄLVADAL 802",
+    "price": 1026,
+    "stock": 21,
+    "moq": 10,
+    "description": "A modern desk named 'Desk ÄLVADAL 802', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0049",
+    "name": "Desk VIKTSTA 659",
+    "price": 295.81,
+    "stock": 51,
+    "moq": 1,
+    "description": "A modern desk named 'Desk VIKTSTA 659', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CHR-0050",
+    "name": "Desk HEMNFORS 512",
+    "price": 52.48,
+    "stock": 49,
+    "moq": 5,
+    "description": "A modern desk named 'Desk HEMNFORS 512', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0051",
+    "name": "Dining NORDBERG 576",
+    "price": 536.46,
+    "stock": 93,
+    "moq": 10,
+    "description": "A modern dining named 'Dining NORDBERG 576', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0052",
+    "name": "Dining STRÅDAL 200",
+    "price": 391.21,
+    "stock": 7,
+    "moq": 1,
+    "description": "A modern dining named 'Dining STRÅDAL 200', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0053",
+    "name": "Dining SNÖRLUND 686",
+    "price": 107.66,
+    "stock": 61,
+    "moq": 2,
+    "description": "A modern dining named 'Dining SNÖRLUND 686', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0054",
+    "name": "Dining STRÅTORP 800",
+    "price": 142.13,
+    "stock": 23,
+    "moq": 1,
+    "description": "A modern dining named 'Dining STRÅTORP 800', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0055",
+    "name": "Dining ÄLVASKÄR 827",
+    "price": 1041.09,
+    "stock": 51,
+    "moq": 1,
+    "description": "A modern dining named 'Dining ÄLVASKÄR 827', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0056",
+    "name": "Dining NORDTORP 94",
+    "price": 733.7,
+    "stock": 79,
+    "moq": 1,
+    "description": "A modern dining named 'Dining NORDTORP 94', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0057",
+    "name": "Dining HEMNHOLM 399",
+    "price": 721.22,
+    "stock": 66,
+    "moq": 5,
+    "description": "A modern dining named 'Dining HEMNHOLM 399', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0058",
+    "name": "Dining TRÄNSUND 167",
+    "price": 820.18,
+    "stock": 40,
+    "moq": 2,
+    "description": "A modern dining named 'Dining TRÄNSUND 167', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0059",
+    "name": "Dining TRÄNDAL 334",
+    "price": 200.51,
+    "stock": 82,
+    "moq": 5,
+    "description": "A modern dining named 'Dining TRÄNDAL 334', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0060",
+    "name": "Dining VIKTTORP 103",
+    "price": 1118.37,
+    "stock": 9,
+    "moq": 1,
+    "description": "A modern dining named 'Dining VIKTTORP 103', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0061",
+    "name": "Dining KALLSKÄR 465",
+    "price": 1198.22,
+    "stock": 12,
+    "moq": 1,
+    "description": "A modern dining named 'Dining KALLSKÄR 465', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0062",
+    "name": "Dining VIKTSKÄR 114",
+    "price": 354.98,
+    "stock": 44,
+    "moq": 1,
+    "description": "A modern dining named 'Dining VIKTSKÄR 114', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0063",
+    "name": "Dining FJÄRTORP 201",
+    "price": 377.74,
+    "stock": 56,
+    "moq": 5,
+    "description": "A modern dining named 'Dining FJÄRTORP 201', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0064",
+    "name": "Dining STRÅFORS 580",
+    "price": 989.67,
+    "stock": 38,
+    "moq": 1,
+    "description": "A modern dining named 'Dining STRÅFORS 580', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0065",
+    "name": "Dining MÖRKMARK 427",
+    "price": 182.74,
+    "stock": 13,
+    "moq": 2,
+    "description": "A modern dining named 'Dining MÖRKMARK 427', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0066",
+    "name": "Dining LUNDSTA 101",
+    "price": 745.55,
+    "stock": 91,
+    "moq": 5,
+    "description": "A modern dining named 'Dining LUNDSTA 101', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0067",
+    "name": "Dining VIKTMARK 105",
+    "price": 779.37,
+    "stock": 33,
+    "moq": 10,
+    "description": "A modern dining named 'Dining VIKTMARK 105', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0068",
+    "name": "Dining ÄLVALUND 813",
+    "price": 108.42,
+    "stock": 81,
+    "moq": 10,
+    "description": "A modern dining named 'Dining ÄLVALUND 813', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0069",
+    "name": "Dining VIKTDAL 22",
+    "price": 54.08,
+    "stock": 98,
+    "moq": 2,
+    "description": "A modern dining named 'Dining VIKTDAL 22', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0070",
+    "name": "Dining HEMNDAL 407",
+    "price": 902.42,
+    "stock": 70,
+    "moq": 10,
+    "description": "A modern dining named 'Dining HEMNDAL 407', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0071",
+    "name": "Dining VALLTORP 752",
+    "price": 136.53,
+    "stock": 88,
+    "moq": 2,
+    "description": "A modern dining named 'Dining VALLTORP 752', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0072",
+    "name": "Dining MÖRKVIK 595",
+    "price": 474.6,
+    "stock": 70,
+    "moq": 2,
+    "description": "A modern dining named 'Dining MÖRKVIK 595', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0073",
+    "name": "Dining MÖRKHOLM 711",
+    "price": 98.1,
+    "stock": 46,
+    "moq": 1,
+    "description": "A modern dining named 'Dining MÖRKHOLM 711', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0074",
+    "name": "Dining STRÅHOLM 152",
+    "price": 834.38,
+    "stock": 85,
+    "moq": 1,
+    "description": "A modern dining named 'Dining STRÅHOLM 152', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DTB-0075",
+    "name": "Dining HEMNSKÄR 284",
+    "price": 693.87,
+    "stock": 52,
+    "moq": 2,
+    "description": "A modern dining named 'Dining HEMNSKÄR 284', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0076",
+    "name": "Dining BJÖRHOLM 74",
+    "price": 236.88,
+    "stock": 22,
+    "moq": 10,
+    "description": "A modern dining named 'Dining BJÖRHOLM 74', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0077",
+    "name": "Dining FJÄRDAL 292",
+    "price": 897.05,
+    "stock": 42,
+    "moq": 10,
+    "description": "A modern dining named 'Dining FJÄRDAL 292', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0078",
+    "name": "Dining STRÅSKÄR 505",
+    "price": 233.08,
+    "stock": 89,
+    "moq": 1,
+    "description": "A modern dining named 'Dining STRÅSKÄR 505', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0079",
+    "name": "Dining VALLTORP 379",
+    "price": 94.53,
+    "stock": 60,
+    "moq": 2,
+    "description": "A modern dining named 'Dining VALLTORP 379', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0080",
+    "name": "Dining HEMNVIK 748",
+    "price": 1106.22,
+    "stock": 44,
+    "moq": 5,
+    "description": "A modern dining named 'Dining HEMNVIK 748', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0081",
+    "name": "Dining SNÖRFORS 618",
+    "price": 77.21,
+    "stock": 24,
+    "moq": 10,
+    "description": "A modern dining named 'Dining SNÖRFORS 618', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0082",
+    "name": "Dining ÄLVAVIK 478",
+    "price": 1044.01,
+    "stock": 98,
+    "moq": 5,
+    "description": "A modern dining named 'Dining ÄLVAVIK 478', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0083",
+    "name": "Dining LUNDHOLM 321",
+    "price": 635.82,
+    "stock": 86,
+    "moq": 5,
+    "description": "A modern dining named 'Dining LUNDHOLM 321', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0084",
+    "name": "Dining KALLDAL 350",
+    "price": 1058.59,
+    "stock": 33,
+    "moq": 2,
+    "description": "A modern dining named 'Dining KALLDAL 350', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0085",
+    "name": "Dining ÄLVADAL 833",
+    "price": 174.66,
+    "stock": 55,
+    "moq": 5,
+    "description": "A modern dining named 'Dining ÄLVADAL 833', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0086",
+    "name": "Dining VIKTFORS 352",
+    "price": 747.14,
+    "stock": 65,
+    "moq": 1,
+    "description": "A modern dining named 'Dining VIKTFORS 352', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0087",
+    "name": "Dining STRÅSUND 618",
+    "price": 268.59,
+    "stock": 5,
+    "moq": 10,
+    "description": "A modern dining named 'Dining STRÅSUND 618', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0088",
+    "name": "Dining FJÄRSKÄR 338",
+    "price": 1114.41,
+    "stock": 68,
+    "moq": 2,
+    "description": "A modern dining named 'Dining FJÄRSKÄR 338', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0089",
+    "name": "Dining ÄLVAVIK 500",
+    "price": 130.47,
+    "stock": 85,
+    "moq": 5,
+    "description": "A modern dining named 'Dining ÄLVAVIK 500', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0090",
+    "name": "Dining VIKTHOLM 997",
+    "price": 1025.22,
+    "stock": 92,
+    "moq": 5,
+    "description": "A modern dining named 'Dining VIKTHOLM 997', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0091",
+    "name": "Dining STRÅBERG 308",
+    "price": 519.65,
+    "stock": 51,
+    "moq": 5,
+    "description": "A modern dining named 'Dining STRÅBERG 308', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0092",
+    "name": "Dining TRÄNSUND 512",
+    "price": 533.51,
+    "stock": 48,
+    "moq": 2,
+    "description": "A modern dining named 'Dining TRÄNSUND 512', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0093",
+    "name": "Dining ÄLVAVIK 343",
+    "price": 680.13,
+    "stock": 0,
+    "moq": 5,
+    "description": "A modern dining named 'Dining ÄLVAVIK 343', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0094",
+    "name": "Dining STRÅSKÄR 846",
+    "price": 544.37,
+    "stock": 74,
+    "moq": 5,
+    "description": "A modern dining named 'Dining STRÅSKÄR 846', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0095",
+    "name": "Dining VALLDAL 383",
+    "price": 558.48,
+    "stock": 27,
+    "moq": 10,
+    "description": "A modern dining named 'Dining VALLDAL 383', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0096",
+    "name": "Dining LUNDLUND 214",
+    "price": 147.51,
+    "stock": 65,
+    "moq": 5,
+    "description": "A modern dining named 'Dining LUNDLUND 214', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0097",
+    "name": "Dining ÄLVAMARK 194",
+    "price": 1144.8,
+    "stock": 30,
+    "moq": 5,
+    "description": "A modern dining named 'Dining ÄLVAMARK 194', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0098",
+    "name": "Dining SNÖRMARK 37",
+    "price": 279,
+    "stock": 3,
+    "moq": 1,
+    "description": "A modern dining named 'Dining SNÖRMARK 37', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0099",
+    "name": "Dining TRÄNFORS 975",
+    "price": 752.97,
+    "stock": 98,
+    "moq": 1,
+    "description": "A modern dining named 'Dining TRÄNFORS 975', designed with style and functionality in mind."
+  },
+  {
+    "sku": "DCH-0100",
+    "name": "Dining TRÄNVIK 458",
+    "price": 1069.06,
+    "stock": 73,
+    "moq": 2,
+    "description": "A modern dining named 'Dining TRÄNVIK 458', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0101",
+    "name": "Bookshelf VALLSKÄR 861",
+    "price": 509.6,
+    "stock": 18,
+    "moq": 1,
+    "description": "A modern bookshelf named 'Bookshelf VALLSKÄR 861', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0102",
+    "name": "Bookshelf TRÄNTORP 848",
+    "price": 538.92,
+    "stock": 22,
+    "moq": 10,
+    "description": "A modern bookshelf named 'Bookshelf TRÄNTORP 848', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0103",
+    "name": "Bookshelf VALLDAL 699",
+    "price": 336.58,
+    "stock": 15,
+    "moq": 10,
+    "description": "A modern bookshelf named 'Bookshelf VALLDAL 699', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0104",
+    "name": "Bookshelf BJÖRHOLM 658",
+    "price": 584.34,
+    "stock": 67,
+    "moq": 5,
+    "description": "A modern bookshelf named 'Bookshelf BJÖRHOLM 658', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0105",
+    "name": "Bookshelf HEMNVIK 268",
+    "price": 987.26,
+    "stock": 64,
+    "moq": 10,
+    "description": "A modern bookshelf named 'Bookshelf HEMNVIK 268', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0106",
+    "name": "Bookshelf SNÖRHOLM 742",
+    "price": 905.2,
+    "stock": 60,
+    "moq": 10,
+    "description": "A modern bookshelf named 'Bookshelf SNÖRHOLM 742', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0107",
+    "name": "Bookshelf STRÅDAL 85",
+    "price": 334.33,
+    "stock": 81,
+    "moq": 5,
+    "description": "A modern bookshelf named 'Bookshelf STRÅDAL 85', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0108",
+    "name": "Bookshelf BJÖRLUND 500",
+    "price": 325.13,
+    "stock": 56,
+    "moq": 1,
+    "description": "A modern bookshelf named 'Bookshelf BJÖRLUND 500', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0109",
+    "name": "Bookshelf ÄLVADAL 557",
+    "price": 362.47,
+    "stock": 40,
+    "moq": 1,
+    "description": "A modern bookshelf named 'Bookshelf ÄLVADAL 557', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0110",
+    "name": "Bookshelf MÖRKDAL 566",
+    "price": 315.95,
+    "stock": 88,
+    "moq": 2,
+    "description": "A modern bookshelf named 'Bookshelf MÖRKDAL 566', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0111",
+    "name": "Bookshelf KALLBERG 728",
+    "price": 527.1,
+    "stock": 42,
+    "moq": 10,
+    "description": "A modern bookshelf named 'Bookshelf KALLBERG 728', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0112",
+    "name": "Bookshelf VALLMARK 618",
+    "price": 287.86,
+    "stock": 53,
+    "moq": 10,
+    "description": "A modern bookshelf named 'Bookshelf VALLMARK 618', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0113",
+    "name": "Bookshelf SNÖRTORP 121",
+    "price": 1062.76,
+    "stock": 73,
+    "moq": 10,
+    "description": "A modern bookshelf named 'Bookshelf SNÖRTORP 121', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0114",
+    "name": "Bookshelf VALLVIK 683",
+    "price": 1134.15,
+    "stock": 38,
+    "moq": 10,
+    "description": "A modern bookshelf named 'Bookshelf VALLVIK 683', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0115",
+    "name": "Bookshelf SNÖRBERG 180",
+    "price": 909.64,
+    "stock": 69,
+    "moq": 2,
+    "description": "A modern bookshelf named 'Bookshelf SNÖRBERG 180', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0116",
+    "name": "Bookshelf SNÖRLUND 55",
+    "price": 363.88,
+    "stock": 62,
+    "moq": 1,
+    "description": "A modern bookshelf named 'Bookshelf SNÖRLUND 55', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0117",
+    "name": "Bookshelf ÄLVASUND 703",
+    "price": 819.2,
+    "stock": 51,
+    "moq": 2,
+    "description": "A modern bookshelf named 'Bookshelf ÄLVASUND 703', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0118",
+    "name": "Bookshelf SNÖRDAL 780",
+    "price": 1177.83,
+    "stock": 68,
+    "moq": 1,
+    "description": "A modern bookshelf named 'Bookshelf SNÖRDAL 780', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0119",
+    "name": "Bookshelf VIKTDAL 118",
+    "price": 699.05,
+    "stock": 3,
+    "moq": 1,
+    "description": "A modern bookshelf named 'Bookshelf VIKTDAL 118', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0120",
+    "name": "Bookshelf KALLTORP 274",
+    "price": 1046.88,
+    "stock": 23,
+    "moq": 1,
+    "description": "A modern bookshelf named 'Bookshelf KALLTORP 274', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0121",
+    "name": "Bookshelf NORDMARK 774",
+    "price": 426.46,
+    "stock": 58,
+    "moq": 5,
+    "description": "A modern bookshelf named 'Bookshelf NORDMARK 774', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0122",
+    "name": "Bookshelf MÖRKMARK 604",
+    "price": 1061.59,
+    "stock": 35,
+    "moq": 10,
+    "description": "A modern bookshelf named 'Bookshelf MÖRKMARK 604', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0123",
+    "name": "Bookshelf TRÄNLUND 236",
+    "price": 144.19,
+    "stock": 2,
+    "moq": 1,
+    "description": "A modern bookshelf named 'Bookshelf TRÄNLUND 236', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0124",
+    "name": "Bookshelf BJÖRBERG 410",
+    "price": 797.67,
+    "stock": 99,
+    "moq": 1,
+    "description": "A modern bookshelf named 'Bookshelf BJÖRBERG 410', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BSF-0125",
+    "name": "Bookshelf BJÖRSUND 612",
+    "price": 279.26,
+    "stock": 2,
+    "moq": 2,
+    "description": "A modern bookshelf named 'Bookshelf BJÖRSUND 612', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0126",
+    "name": "Sofa TRÄNMARK 164",
+    "price": 594.6,
+    "stock": 14,
+    "moq": 2,
+    "description": "A modern sofa named 'Sofa TRÄNMARK 164', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0127",
+    "name": "Sofa VIKTSTA 504",
+    "price": 344.68,
+    "stock": 47,
+    "moq": 2,
+    "description": "A modern sofa named 'Sofa VIKTSTA 504', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0128",
+    "name": "Sofa LUNDSKÄR 435",
+    "price": 992.2,
+    "stock": 39,
+    "moq": 1,
+    "description": "A modern sofa named 'Sofa LUNDSKÄR 435', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0129",
+    "name": "Sofa LUNDTORP 861",
+    "price": 712.17,
+    "stock": 48,
+    "moq": 10,
+    "description": "A modern sofa named 'Sofa LUNDTORP 861', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0130",
+    "name": "Sofa TRÄNHOLM 366",
+    "price": 730.91,
+    "stock": 80,
+    "moq": 2,
+    "description": "A modern sofa named 'Sofa TRÄNHOLM 366', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0131",
+    "name": "Sofa HEMNBERG 476",
+    "price": 938.35,
+    "stock": 87,
+    "moq": 1,
+    "description": "A modern sofa named 'Sofa HEMNBERG 476', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0132",
+    "name": "Sofa VALLVIK 543",
+    "price": 662.66,
+    "stock": 84,
+    "moq": 5,
+    "description": "A modern sofa named 'Sofa VALLVIK 543', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0133",
+    "name": "Sofa BJÖRBERG 497",
+    "price": 794.67,
+    "stock": 1,
+    "moq": 10,
+    "description": "A modern sofa named 'Sofa BJÖRBERG 497', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0134",
+    "name": "Sofa LUNDFORS 749",
+    "price": 548.55,
+    "stock": 46,
+    "moq": 10,
+    "description": "A modern sofa named 'Sofa LUNDFORS 749', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0135",
+    "name": "Sofa TRÄNFORS 336",
+    "price": 252.56,
+    "stock": 66,
+    "moq": 5,
+    "description": "A modern sofa named 'Sofa TRÄNFORS 336', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0136",
+    "name": "Sofa LUNDSKÄR 55",
+    "price": 550.91,
+    "stock": 93,
+    "moq": 5,
+    "description": "A modern sofa named 'Sofa LUNDSKÄR 55', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0137",
+    "name": "Sofa VALLTORP 33",
+    "price": 332.32,
+    "stock": 11,
+    "moq": 5,
+    "description": "A modern sofa named 'Sofa VALLTORP 33', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0138",
+    "name": "Sofa VIKTSUND 121",
+    "price": 913.05,
+    "stock": 72,
+    "moq": 10,
+    "description": "A modern sofa named 'Sofa VIKTSUND 121', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0139",
+    "name": "Sofa SNÖRHOLM 962",
+    "price": 618.45,
+    "stock": 41,
+    "moq": 2,
+    "description": "A modern sofa named 'Sofa SNÖRHOLM 962', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0140",
+    "name": "Sofa TRÄNVIK 538",
+    "price": 458.05,
+    "stock": 33,
+    "moq": 5,
+    "description": "A modern sofa named 'Sofa TRÄNVIK 538', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0141",
+    "name": "Sofa FJÄRMARK 173",
+    "price": 856.36,
+    "stock": 35,
+    "moq": 1,
+    "description": "A modern sofa named 'Sofa FJÄRMARK 173', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0142",
+    "name": "Sofa VIKTMARK 446",
+    "price": 327.56,
+    "stock": 52,
+    "moq": 10,
+    "description": "A modern sofa named 'Sofa VIKTMARK 446', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0143",
+    "name": "Sofa BJÖRVIK 826",
+    "price": 597.51,
+    "stock": 91,
+    "moq": 10,
+    "description": "A modern sofa named 'Sofa BJÖRVIK 826', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0144",
+    "name": "Sofa STRÅSUND 198",
+    "price": 69.83,
+    "stock": 37,
+    "moq": 2,
+    "description": "A modern sofa named 'Sofa STRÅSUND 198', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0145",
+    "name": "Sofa FJÄRSUND 683",
+    "price": 329.8,
+    "stock": 84,
+    "moq": 5,
+    "description": "A modern sofa named 'Sofa FJÄRSUND 683', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0146",
+    "name": "Sofa STRÅDAL 39",
+    "price": 660.56,
+    "stock": 54,
+    "moq": 5,
+    "description": "A modern sofa named 'Sofa STRÅDAL 39', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0147",
+    "name": "Sofa TRÄNLUND 914",
+    "price": 571.81,
+    "stock": 39,
+    "moq": 5,
+    "description": "A modern sofa named 'Sofa TRÄNLUND 914', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0148",
+    "name": "Sofa NORDFORS 616",
+    "price": 879.48,
+    "stock": 40,
+    "moq": 1,
+    "description": "A modern sofa named 'Sofa NORDFORS 616', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0149",
+    "name": "Sofa STRÅDAL 14",
+    "price": 298.84,
+    "stock": 61,
+    "moq": 5,
+    "description": "A modern sofa named 'Sofa STRÅDAL 14', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SFA-0150",
+    "name": "Sofa TRÄNVIK 220",
+    "price": 1007.52,
+    "stock": 37,
+    "moq": 2,
+    "description": "A modern sofa named 'Sofa TRÄNVIK 220', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0151",
+    "name": "Coffee HEMNTORP 601",
+    "price": 397.61,
+    "stock": 90,
+    "moq": 2,
+    "description": "A modern coffee named 'Coffee HEMNTORP 601', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0152",
+    "name": "Coffee LUNDMARK 201",
+    "price": 1170.44,
+    "stock": 70,
+    "moq": 5,
+    "description": "A modern coffee named 'Coffee LUNDMARK 201', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0153",
+    "name": "Coffee VIKTBERG 211",
+    "price": 1048.73,
+    "stock": 62,
+    "moq": 1,
+    "description": "A modern coffee named 'Coffee VIKTBERG 211', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0154",
+    "name": "Coffee BJÖRTORP 278",
+    "price": 376.99,
+    "stock": 61,
+    "moq": 10,
+    "description": "A modern coffee named 'Coffee BJÖRTORP 278', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0155",
+    "name": "Coffee SNÖRFORS 550",
+    "price": 1160.32,
+    "stock": 32,
+    "moq": 10,
+    "description": "A modern coffee named 'Coffee SNÖRFORS 550', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0156",
+    "name": "Coffee SNÖRBERG 621",
+    "price": 125.14,
+    "stock": 62,
+    "moq": 1,
+    "description": "A modern coffee named 'Coffee SNÖRBERG 621', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0157",
+    "name": "Coffee STRÅLUND 411",
+    "price": 221.58,
+    "stock": 72,
+    "moq": 5,
+    "description": "A modern coffee named 'Coffee STRÅLUND 411', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0158",
+    "name": "Coffee ÄLVATORP 366",
+    "price": 186.22,
+    "stock": 97,
+    "moq": 10,
+    "description": "A modern coffee named 'Coffee ÄLVATORP 366', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0159",
+    "name": "Coffee VIKTFORS 642",
+    "price": 650.96,
+    "stock": 57,
+    "moq": 10,
+    "description": "A modern coffee named 'Coffee VIKTFORS 642', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0160",
+    "name": "Coffee FJÄRSUND 732",
+    "price": 726.8,
+    "stock": 54,
+    "moq": 5,
+    "description": "A modern coffee named 'Coffee FJÄRSUND 732', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0161",
+    "name": "Coffee VALLSKÄR 950",
+    "price": 1154.13,
+    "stock": 12,
+    "moq": 2,
+    "description": "A modern coffee named 'Coffee VALLSKÄR 950', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0162",
+    "name": "Coffee ÄLVALUND 96",
+    "price": 809.49,
+    "stock": 20,
+    "moq": 2,
+    "description": "A modern coffee named 'Coffee ÄLVALUND 96', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0163",
+    "name": "Coffee SNÖRHOLM 330",
+    "price": 136.32,
+    "stock": 0,
+    "moq": 10,
+    "description": "A modern coffee named 'Coffee SNÖRHOLM 330', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0164",
+    "name": "Coffee LUNDVIK 322",
+    "price": 732.88,
+    "stock": 37,
+    "moq": 1,
+    "description": "A modern coffee named 'Coffee LUNDVIK 322', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0165",
+    "name": "Coffee LUNDHOLM 392",
+    "price": 863,
+    "stock": 89,
+    "moq": 10,
+    "description": "A modern coffee named 'Coffee LUNDHOLM 392', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0166",
+    "name": "Coffee TRÄNHOLM 533",
+    "price": 318.44,
+    "stock": 33,
+    "moq": 2,
+    "description": "A modern coffee named 'Coffee TRÄNHOLM 533', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0167",
+    "name": "Coffee STRÅDAL 620",
+    "price": 676.25,
+    "stock": 82,
+    "moq": 2,
+    "description": "A modern coffee named 'Coffee STRÅDAL 620', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0168",
+    "name": "Coffee FJÄRLUND 402",
+    "price": 213.57,
+    "stock": 7,
+    "moq": 2,
+    "description": "A modern coffee named 'Coffee FJÄRLUND 402', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0169",
+    "name": "Coffee STRÅHOLM 508",
+    "price": 911.3,
+    "stock": 72,
+    "moq": 5,
+    "description": "A modern coffee named 'Coffee STRÅHOLM 508', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0170",
+    "name": "Coffee SNÖRMARK 720",
+    "price": 589,
+    "stock": 38,
+    "moq": 10,
+    "description": "A modern coffee named 'Coffee SNÖRMARK 720', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0171",
+    "name": "Coffee SNÖRHOLM 578",
+    "price": 670.98,
+    "stock": 56,
+    "moq": 1,
+    "description": "A modern coffee named 'Coffee SNÖRHOLM 578', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0172",
+    "name": "Coffee FJÄRFORS 305",
+    "price": 894.71,
+    "stock": 77,
+    "moq": 5,
+    "description": "A modern coffee named 'Coffee FJÄRFORS 305', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0173",
+    "name": "Coffee FJÄRHOLM 332",
+    "price": 313.26,
+    "stock": 86,
+    "moq": 1,
+    "description": "A modern coffee named 'Coffee FJÄRHOLM 332', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0174",
+    "name": "Coffee BJÖRLUND 64",
+    "price": 96.27,
+    "stock": 96,
+    "moq": 2,
+    "description": "A modern coffee named 'Coffee BJÖRLUND 64', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CFT-0175",
+    "name": "Coffee VIKTSTA 506",
+    "price": 799.24,
+    "stock": 35,
+    "moq": 2,
+    "description": "A modern coffee named 'Coffee VIKTSTA 506', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0176",
+    "name": "TV FJÄRVIK 844",
+    "price": 986.38,
+    "stock": 11,
+    "moq": 10,
+    "description": "A modern tv named 'TV FJÄRVIK 844', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0177",
+    "name": "TV STRÅMARK 527",
+    "price": 433.3,
+    "stock": 85,
+    "moq": 1,
+    "description": "A modern tv named 'TV STRÅMARK 527', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0178",
+    "name": "TV SNÖRFORS 428",
+    "price": 523.39,
+    "stock": 63,
+    "moq": 5,
+    "description": "A modern tv named 'TV SNÖRFORS 428', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0179",
+    "name": "TV SNÖRFORS 435",
+    "price": 924.57,
+    "stock": 4,
+    "moq": 10,
+    "description": "A modern tv named 'TV SNÖRFORS 435', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0180",
+    "name": "TV TRÄNFORS 510",
+    "price": 340.26,
+    "stock": 14,
+    "moq": 10,
+    "description": "A modern tv named 'TV TRÄNFORS 510', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0181",
+    "name": "TV FJÄRTORP 588",
+    "price": 1049.77,
+    "stock": 59,
+    "moq": 10,
+    "description": "A modern tv named 'TV FJÄRTORP 588', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0182",
+    "name": "TV KALLVIK 309",
+    "price": 646.21,
+    "stock": 79,
+    "moq": 10,
+    "description": "A modern tv named 'TV KALLVIK 309', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0183",
+    "name": "TV KALLSKÄR 240",
+    "price": 109.35,
+    "stock": 34,
+    "moq": 2,
+    "description": "A modern tv named 'TV KALLSKÄR 240', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0184",
+    "name": "TV MÖRKSKÄR 182",
+    "price": 1062.97,
+    "stock": 62,
+    "moq": 1,
+    "description": "A modern tv named 'TV MÖRKSKÄR 182', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0185",
+    "name": "TV VALLFORS 589",
+    "price": 750.2,
+    "stock": 30,
+    "moq": 2,
+    "description": "A modern tv named 'TV VALLFORS 589', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0186",
+    "name": "TV TRÄNFORS 572",
+    "price": 65.73,
+    "stock": 52,
+    "moq": 1,
+    "description": "A modern tv named 'TV TRÄNFORS 572', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0187",
+    "name": "TV MÖRKTORP 596",
+    "price": 1099.87,
+    "stock": 59,
+    "moq": 1,
+    "description": "A modern tv named 'TV MÖRKTORP 596', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0188",
+    "name": "TV LUNDSKÄR 803",
+    "price": 1122.55,
+    "stock": 37,
+    "moq": 5,
+    "description": "A modern tv named 'TV LUNDSKÄR 803', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0189",
+    "name": "TV MÖRKBERG 565",
+    "price": 604.87,
+    "stock": 60,
+    "moq": 2,
+    "description": "A modern tv named 'TV MÖRKBERG 565', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0190",
+    "name": "TV VALLSTA 788",
+    "price": 216.34,
+    "stock": 24,
+    "moq": 2,
+    "description": "A modern tv named 'TV VALLSTA 788', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0191",
+    "name": "TV TRÄNFORS 569",
+    "price": 938.58,
+    "stock": 53,
+    "moq": 5,
+    "description": "A modern tv named 'TV TRÄNFORS 569', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0192",
+    "name": "TV NORDDAL 114",
+    "price": 52.95,
+    "stock": 92,
+    "moq": 5,
+    "description": "A modern tv named 'TV NORDDAL 114', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0193",
+    "name": "TV TRÄNSUND 779",
+    "price": 220.88,
+    "stock": 68,
+    "moq": 10,
+    "description": "A modern tv named 'TV TRÄNSUND 779', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0194",
+    "name": "TV NORDSKÄR 905",
+    "price": 684.71,
+    "stock": 69,
+    "moq": 10,
+    "description": "A modern tv named 'TV NORDSKÄR 905', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0195",
+    "name": "TV KALLFORS 279",
+    "price": 1050.04,
+    "stock": 89,
+    "moq": 2,
+    "description": "A modern tv named 'TV KALLFORS 279', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0196",
+    "name": "TV VIKTTORP 459",
+    "price": 1034.41,
+    "stock": 52,
+    "moq": 1,
+    "description": "A modern tv named 'TV VIKTTORP 459', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0197",
+    "name": "TV LUNDVIK 224",
+    "price": 593.92,
+    "stock": 48,
+    "moq": 10,
+    "description": "A modern tv named 'TV LUNDVIK 224', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0198",
+    "name": "TV VALLLUND 715",
+    "price": 1159.55,
+    "stock": 16,
+    "moq": 5,
+    "description": "A modern tv named 'TV VALLLUND 715', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0199",
+    "name": "TV VIKTLUND 657",
+    "price": 1021.8,
+    "stock": 12,
+    "moq": 10,
+    "description": "A modern tv named 'TV VIKTLUND 657', designed with style and functionality in mind."
+  },
+  {
+    "sku": "TVS-0200",
+    "name": "TV STRÅHOLM 640",
+    "price": 215.78,
+    "stock": 83,
+    "moq": 2,
+    "description": "A modern tv named 'TV STRÅHOLM 640', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0201",
+    "name": "Bed FJÄRVIK 843",
+    "price": 948.75,
+    "stock": 33,
+    "moq": 5,
+    "description": "A modern bed named 'Bed FJÄRVIK 843', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0202",
+    "name": "Bed NORDSTA 593",
+    "price": 142.36,
+    "stock": 42,
+    "moq": 10,
+    "description": "A modern bed named 'Bed NORDSTA 593', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0203",
+    "name": "Bed VIKTMARK 297",
+    "price": 876.53,
+    "stock": 97,
+    "moq": 10,
+    "description": "A modern bed named 'Bed VIKTMARK 297', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0204",
+    "name": "Bed ÄLVAMARK 182",
+    "price": 128.68,
+    "stock": 80,
+    "moq": 5,
+    "description": "A modern bed named 'Bed ÄLVAMARK 182', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0205",
+    "name": "Bed VIKTSKÄR 306",
+    "price": 153.94,
+    "stock": 12,
+    "moq": 1,
+    "description": "A modern bed named 'Bed VIKTSKÄR 306', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0206",
+    "name": "Bed ÄLVASKÄR 985",
+    "price": 848.1,
+    "stock": 3,
+    "moq": 1,
+    "description": "A modern bed named 'Bed ÄLVASKÄR 985', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0207",
+    "name": "Bed MÖRKSUND 844",
+    "price": 114.54,
+    "stock": 45,
+    "moq": 5,
+    "description": "A modern bed named 'Bed MÖRKSUND 844', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0208",
+    "name": "Bed LUNDHOLM 995",
+    "price": 330.83,
+    "stock": 52,
+    "moq": 2,
+    "description": "A modern bed named 'Bed LUNDHOLM 995', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0209",
+    "name": "Bed VALLDAL 950",
+    "price": 140.81,
+    "stock": 48,
+    "moq": 2,
+    "description": "A modern bed named 'Bed VALLDAL 950', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0210",
+    "name": "Bed KALLSKÄR 897",
+    "price": 214.59,
+    "stock": 59,
+    "moq": 5,
+    "description": "A modern bed named 'Bed KALLSKÄR 897', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0211",
+    "name": "Bed SNÖRHOLM 728",
+    "price": 816.87,
+    "stock": 59,
+    "moq": 5,
+    "description": "A modern bed named 'Bed SNÖRHOLM 728', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0212",
+    "name": "Bed FJÄRVIK 159",
+    "price": 557.99,
+    "stock": 44,
+    "moq": 5,
+    "description": "A modern bed named 'Bed FJÄRVIK 159', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0213",
+    "name": "Bed TRÄNBERG 858",
+    "price": 337.61,
+    "stock": 38,
+    "moq": 2,
+    "description": "A modern bed named 'Bed TRÄNBERG 858', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0214",
+    "name": "Bed NORDSUND 412",
+    "price": 605.69,
+    "stock": 30,
+    "moq": 10,
+    "description": "A modern bed named 'Bed NORDSUND 412', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0215",
+    "name": "Bed BJÖRHOLM 601",
+    "price": 390.25,
+    "stock": 89,
+    "moq": 5,
+    "description": "A modern bed named 'Bed BJÖRHOLM 601', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0216",
+    "name": "Bed SNÖRSKÄR 652",
+    "price": 806.96,
+    "stock": 35,
+    "moq": 1,
+    "description": "A modern bed named 'Bed SNÖRSKÄR 652', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0217",
+    "name": "Bed STRÅDAL 472",
+    "price": 906.95,
+    "stock": 36,
+    "moq": 2,
+    "description": "A modern bed named 'Bed STRÅDAL 472', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0218",
+    "name": "Bed LUNDSUND 823",
+    "price": 782.11,
+    "stock": 79,
+    "moq": 5,
+    "description": "A modern bed named 'Bed LUNDSUND 823', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0219",
+    "name": "Bed VALLTORP 422",
+    "price": 161.74,
+    "stock": 80,
+    "moq": 1,
+    "description": "A modern bed named 'Bed VALLTORP 422', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0220",
+    "name": "Bed MÖRKSKÄR 721",
+    "price": 556.95,
+    "stock": 74,
+    "moq": 5,
+    "description": "A modern bed named 'Bed MÖRKSKÄR 721', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0221",
+    "name": "Bed VIKTFORS 983",
+    "price": 1096.07,
+    "stock": 41,
+    "moq": 10,
+    "description": "A modern bed named 'Bed VIKTFORS 983', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0222",
+    "name": "Bed BJÖRBERG 605",
+    "price": 201.98,
+    "stock": 69,
+    "moq": 5,
+    "description": "A modern bed named 'Bed BJÖRBERG 605', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0223",
+    "name": "Bed KALLTORP 758",
+    "price": 239.23,
+    "stock": 61,
+    "moq": 5,
+    "description": "A modern bed named 'Bed KALLTORP 758', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0224",
+    "name": "Bed BJÖRSUND 690",
+    "price": 182.45,
+    "stock": 9,
+    "moq": 2,
+    "description": "A modern bed named 'Bed BJÖRSUND 690', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BDF-0225",
+    "name": "Bed TRÄNBERG 880",
+    "price": 827.77,
+    "stock": 86,
+    "moq": 10,
+    "description": "A modern bed named 'Bed TRÄNBERG 880', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0226",
+    "name": "Nightstand LUNDMARK 417",
+    "price": 959.28,
+    "stock": 1,
+    "moq": 5,
+    "description": "A modern nightstand named 'Nightstand LUNDMARK 417', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0227",
+    "name": "Nightstand NORDDAL 854",
+    "price": 473.87,
+    "stock": 95,
+    "moq": 5,
+    "description": "A modern nightstand named 'Nightstand NORDDAL 854', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0228",
+    "name": "Nightstand NORDFORS 284",
+    "price": 784.33,
+    "stock": 47,
+    "moq": 1,
+    "description": "A modern nightstand named 'Nightstand NORDFORS 284', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0229",
+    "name": "Nightstand VIKTSKÄR 355",
+    "price": 78.78,
+    "stock": 71,
+    "moq": 5,
+    "description": "A modern nightstand named 'Nightstand VIKTSKÄR 355', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0230",
+    "name": "Nightstand MÖRKLUND 143",
+    "price": 122.7,
+    "stock": 59,
+    "moq": 5,
+    "description": "A modern nightstand named 'Nightstand MÖRKLUND 143', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0231",
+    "name": "Nightstand ÄLVAFORS 817",
+    "price": 210.74,
+    "stock": 4,
+    "moq": 5,
+    "description": "A modern nightstand named 'Nightstand ÄLVAFORS 817', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0232",
+    "name": "Nightstand VIKTSUND 790",
+    "price": 161.77,
+    "stock": 68,
+    "moq": 2,
+    "description": "A modern nightstand named 'Nightstand VIKTSUND 790', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0233",
+    "name": "Nightstand KALLSTA 111",
+    "price": 476.66,
+    "stock": 95,
+    "moq": 10,
+    "description": "A modern nightstand named 'Nightstand KALLSTA 111', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0234",
+    "name": "Nightstand SNÖRFORS 26",
+    "price": 803.16,
+    "stock": 62,
+    "moq": 10,
+    "description": "A modern nightstand named 'Nightstand SNÖRFORS 26', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0235",
+    "name": "Nightstand LUNDHOLM 461",
+    "price": 843.82,
+    "stock": 27,
+    "moq": 10,
+    "description": "A modern nightstand named 'Nightstand LUNDHOLM 461', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0236",
+    "name": "Nightstand BJÖRSTA 991",
+    "price": 1033.77,
+    "stock": 12,
+    "moq": 5,
+    "description": "A modern nightstand named 'Nightstand BJÖRSTA 991', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0237",
+    "name": "Nightstand STRÅVIK 715",
+    "price": 507.86,
+    "stock": 24,
+    "moq": 1,
+    "description": "A modern nightstand named 'Nightstand STRÅVIK 715', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0238",
+    "name": "Nightstand FJÄRSUND 319",
+    "price": 812.18,
+    "stock": 82,
+    "moq": 1,
+    "description": "A modern nightstand named 'Nightstand FJÄRSUND 319', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0239",
+    "name": "Nightstand FJÄRSKÄR 105",
+    "price": 433.54,
+    "stock": 16,
+    "moq": 2,
+    "description": "A modern nightstand named 'Nightstand FJÄRSKÄR 105', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0240",
+    "name": "Nightstand SNÖRBERG 266",
+    "price": 929.93,
+    "stock": 26,
+    "moq": 2,
+    "description": "A modern nightstand named 'Nightstand SNÖRBERG 266', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0241",
+    "name": "Nightstand LUNDBERG 690",
+    "price": 940.52,
+    "stock": 100,
+    "moq": 1,
+    "description": "A modern nightstand named 'Nightstand LUNDBERG 690', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0242",
+    "name": "Nightstand SNÖRHOLM 63",
+    "price": 1181.63,
+    "stock": 16,
+    "moq": 5,
+    "description": "A modern nightstand named 'Nightstand SNÖRHOLM 63', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0243",
+    "name": "Nightstand STRÅSUND 322",
+    "price": 810.22,
+    "stock": 3,
+    "moq": 2,
+    "description": "A modern nightstand named 'Nightstand STRÅSUND 322', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0244",
+    "name": "Nightstand TRÄNVIK 449",
+    "price": 958.48,
+    "stock": 30,
+    "moq": 5,
+    "description": "A modern nightstand named 'Nightstand TRÄNVIK 449', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0245",
+    "name": "Nightstand SNÖRTORP 730",
+    "price": 355.17,
+    "stock": 16,
+    "moq": 10,
+    "description": "A modern nightstand named 'Nightstand SNÖRTORP 730', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0246",
+    "name": "Nightstand LUNDSTA 228",
+    "price": 123.09,
+    "stock": 57,
+    "moq": 5,
+    "description": "A modern nightstand named 'Nightstand LUNDSTA 228', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0247",
+    "name": "Nightstand BJÖRTORP 145",
+    "price": 629.41,
+    "stock": 78,
+    "moq": 1,
+    "description": "A modern nightstand named 'Nightstand BJÖRTORP 145', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0248",
+    "name": "Nightstand ÄLVAVIK 541",
+    "price": 789.84,
+    "stock": 3,
+    "moq": 1,
+    "description": "A modern nightstand named 'Nightstand ÄLVAVIK 541', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0249",
+    "name": "Nightstand SNÖRFORS 19",
+    "price": 511.86,
+    "stock": 87,
+    "moq": 1,
+    "description": "A modern nightstand named 'Nightstand SNÖRFORS 19', designed with style and functionality in mind."
+  },
+  {
+    "sku": "NST-0250",
+    "name": "Nightstand KALLBERG 846",
+    "price": 1096.16,
+    "stock": 9,
+    "moq": 1,
+    "description": "A modern nightstand named 'Nightstand KALLBERG 846', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0251",
+    "name": "Wardrobe LUNDDAL 720",
+    "price": 220.58,
+    "stock": 16,
+    "moq": 5,
+    "description": "A modern wardrobe named 'Wardrobe LUNDDAL 720', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0252",
+    "name": "Wardrobe FJÄRFORS 82",
+    "price": 1193.82,
+    "stock": 67,
+    "moq": 5,
+    "description": "A modern wardrobe named 'Wardrobe FJÄRFORS 82', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0253",
+    "name": "Wardrobe NORDDAL 101",
+    "price": 746.24,
+    "stock": 12,
+    "moq": 1,
+    "description": "A modern wardrobe named 'Wardrobe NORDDAL 101', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0254",
+    "name": "Wardrobe TRÄNTORP 115",
+    "price": 569.29,
+    "stock": 29,
+    "moq": 10,
+    "description": "A modern wardrobe named 'Wardrobe TRÄNTORP 115', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0255",
+    "name": "Wardrobe VIKTBERG 912",
+    "price": 571.52,
+    "stock": 53,
+    "moq": 1,
+    "description": "A modern wardrobe named 'Wardrobe VIKTBERG 912', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0256",
+    "name": "Wardrobe HEMNHOLM 401",
+    "price": 409.4,
+    "stock": 32,
+    "moq": 5,
+    "description": "A modern wardrobe named 'Wardrobe HEMNHOLM 401', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0257",
+    "name": "Wardrobe VALLHOLM 666",
+    "price": 1111.43,
+    "stock": 8,
+    "moq": 1,
+    "description": "A modern wardrobe named 'Wardrobe VALLHOLM 666', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0258",
+    "name": "Wardrobe SNÖRHOLM 80",
+    "price": 546.66,
+    "stock": 95,
+    "moq": 5,
+    "description": "A modern wardrobe named 'Wardrobe SNÖRHOLM 80', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0259",
+    "name": "Wardrobe MÖRKLUND 18",
+    "price": 118.98,
+    "stock": 71,
+    "moq": 5,
+    "description": "A modern wardrobe named 'Wardrobe MÖRKLUND 18', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0260",
+    "name": "Wardrobe ÄLVASUND 178",
+    "price": 456.64,
+    "stock": 85,
+    "moq": 10,
+    "description": "A modern wardrobe named 'Wardrobe ÄLVASUND 178', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0261",
+    "name": "Wardrobe BJÖRBERG 749",
+    "price": 740.47,
+    "stock": 45,
+    "moq": 1,
+    "description": "A modern wardrobe named 'Wardrobe BJÖRBERG 749', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0262",
+    "name": "Wardrobe NORDSUND 776",
+    "price": 805.25,
+    "stock": 28,
+    "moq": 1,
+    "description": "A modern wardrobe named 'Wardrobe NORDSUND 776', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0263",
+    "name": "Wardrobe FJÄRDAL 640",
+    "price": 689.71,
+    "stock": 14,
+    "moq": 5,
+    "description": "A modern wardrobe named 'Wardrobe FJÄRDAL 640', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0264",
+    "name": "Wardrobe SNÖRFORS 890",
+    "price": 543.48,
+    "stock": 71,
+    "moq": 1,
+    "description": "A modern wardrobe named 'Wardrobe SNÖRFORS 890', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0265",
+    "name": "Wardrobe NORDTORP 928",
+    "price": 257.48,
+    "stock": 89,
+    "moq": 5,
+    "description": "A modern wardrobe named 'Wardrobe NORDTORP 928', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0266",
+    "name": "Wardrobe LUNDHOLM 780",
+    "price": 57.02,
+    "stock": 18,
+    "moq": 10,
+    "description": "A modern wardrobe named 'Wardrobe LUNDHOLM 780', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0267",
+    "name": "Wardrobe LUNDLUND 757",
+    "price": 902.11,
+    "stock": 3,
+    "moq": 1,
+    "description": "A modern wardrobe named 'Wardrobe LUNDLUND 757', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0268",
+    "name": "Wardrobe STRÅBERG 996",
+    "price": 532.81,
+    "stock": 43,
+    "moq": 2,
+    "description": "A modern wardrobe named 'Wardrobe STRÅBERG 996', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0269",
+    "name": "Wardrobe STRÅBERG 820",
+    "price": 879.84,
+    "stock": 99,
+    "moq": 1,
+    "description": "A modern wardrobe named 'Wardrobe STRÅBERG 820', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0270",
+    "name": "Wardrobe FJÄRVIK 293",
+    "price": 231.02,
+    "stock": 79,
+    "moq": 1,
+    "description": "A modern wardrobe named 'Wardrobe FJÄRVIK 293', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0271",
+    "name": "Wardrobe SNÖRTORP 264",
+    "price": 559.58,
+    "stock": 54,
+    "moq": 10,
+    "description": "A modern wardrobe named 'Wardrobe SNÖRTORP 264', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0272",
+    "name": "Wardrobe MÖRKLUND 624",
+    "price": 364.14,
+    "stock": 96,
+    "moq": 1,
+    "description": "A modern wardrobe named 'Wardrobe MÖRKLUND 624', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0273",
+    "name": "Wardrobe TRÄNLUND 301",
+    "price": 177.52,
+    "stock": 86,
+    "moq": 10,
+    "description": "A modern wardrobe named 'Wardrobe TRÄNLUND 301', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0274",
+    "name": "Wardrobe VALLSTA 878",
+    "price": 303.6,
+    "stock": 76,
+    "moq": 1,
+    "description": "A modern wardrobe named 'Wardrobe VALLSTA 878', designed with style and functionality in mind."
+  },
+  {
+    "sku": "WRD-0275",
+    "name": "Wardrobe SNÖRSKÄR 220",
+    "price": 396.63,
+    "stock": 27,
+    "moq": 2,
+    "description": "A modern wardrobe named 'Wardrobe SNÖRSKÄR 220', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0276",
+    "name": "Bar MÖRKLUND 531",
+    "price": 427.34,
+    "stock": 0,
+    "moq": 10,
+    "description": "A modern bar named 'Bar MÖRKLUND 531', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0277",
+    "name": "Bar NORDDAL 312",
+    "price": 198.56,
+    "stock": 68,
+    "moq": 2,
+    "description": "A modern bar named 'Bar NORDDAL 312', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0278",
+    "name": "Bar SNÖRSTA 812",
+    "price": 506.63,
+    "stock": 94,
+    "moq": 1,
+    "description": "A modern bar named 'Bar SNÖRSTA 812', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0279",
+    "name": "Bar VALLVIK 516",
+    "price": 578.72,
+    "stock": 9,
+    "moq": 5,
+    "description": "A modern bar named 'Bar VALLVIK 516', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0280",
+    "name": "Bar STRÅTORP 256",
+    "price": 515.09,
+    "stock": 81,
+    "moq": 10,
+    "description": "A modern bar named 'Bar STRÅTORP 256', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0281",
+    "name": "Bar BJÖRSUND 618",
+    "price": 515.79,
+    "stock": 41,
+    "moq": 2,
+    "description": "A modern bar named 'Bar BJÖRSUND 618', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0282",
+    "name": "Bar LUNDMARK 920",
+    "price": 843.05,
+    "stock": 46,
+    "moq": 1,
+    "description": "A modern bar named 'Bar LUNDMARK 920', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0283",
+    "name": "Bar KALLBERG 966",
+    "price": 171.74,
+    "stock": 55,
+    "moq": 10,
+    "description": "A modern bar named 'Bar KALLBERG 966', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0284",
+    "name": "Bar VIKTHOLM 406",
+    "price": 1051.1,
+    "stock": 95,
+    "moq": 5,
+    "description": "A modern bar named 'Bar VIKTHOLM 406', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0285",
+    "name": "Bar ÄLVADAL 384",
+    "price": 945.99,
+    "stock": 9,
+    "moq": 1,
+    "description": "A modern bar named 'Bar ÄLVADAL 384', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0286",
+    "name": "Bar MÖRKSUND 186",
+    "price": 451.78,
+    "stock": 93,
+    "moq": 2,
+    "description": "A modern bar named 'Bar MÖRKSUND 186', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0287",
+    "name": "Bar VALLFORS 987",
+    "price": 218.41,
+    "stock": 25,
+    "moq": 2,
+    "description": "A modern bar named 'Bar VALLFORS 987', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0288",
+    "name": "Bar VALLTORP 27",
+    "price": 923.03,
+    "stock": 9,
+    "moq": 2,
+    "description": "A modern bar named 'Bar VALLTORP 27', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0289",
+    "name": "Bar ÄLVATORP 24",
+    "price": 917.61,
+    "stock": 97,
+    "moq": 10,
+    "description": "A modern bar named 'Bar ÄLVATORP 24', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0290",
+    "name": "Bar HEMNVIK 50",
+    "price": 1166.62,
+    "stock": 40,
+    "moq": 2,
+    "description": "A modern bar named 'Bar HEMNVIK 50', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0291",
+    "name": "Bar KALLDAL 528",
+    "price": 589.26,
+    "stock": 80,
+    "moq": 5,
+    "description": "A modern bar named 'Bar KALLDAL 528', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0292",
+    "name": "Bar HEMNSUND 739",
+    "price": 114.6,
+    "stock": 64,
+    "moq": 1,
+    "description": "A modern bar named 'Bar HEMNSUND 739', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0293",
+    "name": "Bar MÖRKDAL 443",
+    "price": 569.7,
+    "stock": 7,
+    "moq": 5,
+    "description": "A modern bar named 'Bar MÖRKDAL 443', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0294",
+    "name": "Bar TRÄNDAL 94",
+    "price": 791.37,
+    "stock": 11,
+    "moq": 10,
+    "description": "A modern bar named 'Bar TRÄNDAL 94', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0295",
+    "name": "Bar SNÖRMARK 560",
+    "price": 687.46,
+    "stock": 94,
+    "moq": 1,
+    "description": "A modern bar named 'Bar SNÖRMARK 560', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0296",
+    "name": "Bar ÄLVAHOLM 294",
+    "price": 707.41,
+    "stock": 24,
+    "moq": 5,
+    "description": "A modern bar named 'Bar ÄLVAHOLM 294', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0297",
+    "name": "Bar LUNDSKÄR 90",
+    "price": 223.49,
+    "stock": 7,
+    "moq": 10,
+    "description": "A modern bar named 'Bar LUNDSKÄR 90', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0298",
+    "name": "Bar MÖRKVIK 837",
+    "price": 1084,
+    "stock": 43,
+    "moq": 1,
+    "description": "A modern bar named 'Bar MÖRKVIK 837', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0299",
+    "name": "Bar FJÄRMARK 344",
+    "price": 334.91,
+    "stock": 56,
+    "moq": 10,
+    "description": "A modern bar named 'Bar FJÄRMARK 344', designed with style and functionality in mind."
+  },
+  {
+    "sku": "BST-0300",
+    "name": "Bar STRÅLUND 659",
+    "price": 478.78,
+    "stock": 36,
+    "moq": 10,
+    "description": "A modern bar named 'Bar STRÅLUND 659', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0301",
+    "name": "Sideboard VALLSUND 707",
+    "price": 439.12,
+    "stock": 76,
+    "moq": 1,
+    "description": "A modern sideboard named 'Sideboard VALLSUND 707', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0302",
+    "name": "Sideboard SNÖRTORP 327",
+    "price": 429.14,
+    "stock": 71,
+    "moq": 10,
+    "description": "A modern sideboard named 'Sideboard SNÖRTORP 327', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0303",
+    "name": "Sideboard TRÄNDAL 757",
+    "price": 882.29,
+    "stock": 84,
+    "moq": 2,
+    "description": "A modern sideboard named 'Sideboard TRÄNDAL 757', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0304",
+    "name": "Sideboard NORDSTA 260",
+    "price": 720.15,
+    "stock": 18,
+    "moq": 5,
+    "description": "A modern sideboard named 'Sideboard NORDSTA 260', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0305",
+    "name": "Sideboard LUNDDAL 128",
+    "price": 853.25,
+    "stock": 50,
+    "moq": 2,
+    "description": "A modern sideboard named 'Sideboard LUNDDAL 128', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0306",
+    "name": "Sideboard BJÖRLUND 633",
+    "price": 692.76,
+    "stock": 82,
+    "moq": 5,
+    "description": "A modern sideboard named 'Sideboard BJÖRLUND 633', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0307",
+    "name": "Sideboard KALLSKÄR 692",
+    "price": 858.26,
+    "stock": 94,
+    "moq": 1,
+    "description": "A modern sideboard named 'Sideboard KALLSKÄR 692', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0308",
+    "name": "Sideboard TRÄNSUND 768",
+    "price": 466.1,
+    "stock": 46,
+    "moq": 5,
+    "description": "A modern sideboard named 'Sideboard TRÄNSUND 768', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0309",
+    "name": "Sideboard FJÄRTORP 22",
+    "price": 442.99,
+    "stock": 98,
+    "moq": 10,
+    "description": "A modern sideboard named 'Sideboard FJÄRTORP 22', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0310",
+    "name": "Sideboard TRÄNHOLM 728",
+    "price": 1199.97,
+    "stock": 19,
+    "moq": 1,
+    "description": "A modern sideboard named 'Sideboard TRÄNHOLM 728', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0311",
+    "name": "Sideboard KALLHOLM 518",
+    "price": 956.34,
+    "stock": 64,
+    "moq": 1,
+    "description": "A modern sideboard named 'Sideboard KALLHOLM 518', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0312",
+    "name": "Sideboard VIKTMARK 539",
+    "price": 931.25,
+    "stock": 16,
+    "moq": 10,
+    "description": "A modern sideboard named 'Sideboard VIKTMARK 539', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0313",
+    "name": "Sideboard VALLSKÄR 180",
+    "price": 257.97,
+    "stock": 88,
+    "moq": 2,
+    "description": "A modern sideboard named 'Sideboard VALLSKÄR 180', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0314",
+    "name": "Sideboard VIKTHOLM 777",
+    "price": 522.49,
+    "stock": 86,
+    "moq": 2,
+    "description": "A modern sideboard named 'Sideboard VIKTHOLM 777', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0315",
+    "name": "Sideboard VALLSKÄR 760",
+    "price": 377.67,
+    "stock": 95,
+    "moq": 10,
+    "description": "A modern sideboard named 'Sideboard VALLSKÄR 760', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0316",
+    "name": "Sideboard LUNDSTA 353",
+    "price": 325.04,
+    "stock": 100,
+    "moq": 10,
+    "description": "A modern sideboard named 'Sideboard LUNDSTA 353', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0317",
+    "name": "Sideboard VALLDAL 288",
+    "price": 830.05,
+    "stock": 73,
+    "moq": 10,
+    "description": "A modern sideboard named 'Sideboard VALLDAL 288', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0318",
+    "name": "Sideboard MÖRKTORP 279",
+    "price": 374.04,
+    "stock": 48,
+    "moq": 10,
+    "description": "A modern sideboard named 'Sideboard MÖRKTORP 279', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0319",
+    "name": "Sideboard TRÄNLUND 652",
+    "price": 279.65,
+    "stock": 77,
+    "moq": 2,
+    "description": "A modern sideboard named 'Sideboard TRÄNLUND 652', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0320",
+    "name": "Sideboard LUNDFORS 476",
+    "price": 787.36,
+    "stock": 47,
+    "moq": 1,
+    "description": "A modern sideboard named 'Sideboard LUNDFORS 476', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0321",
+    "name": "Sideboard MÖRKBERG 66",
+    "price": 146.46,
+    "stock": 20,
+    "moq": 5,
+    "description": "A modern sideboard named 'Sideboard MÖRKBERG 66', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0322",
+    "name": "Sideboard BJÖRLUND 180",
+    "price": 219.45,
+    "stock": 55,
+    "moq": 1,
+    "description": "A modern sideboard named 'Sideboard BJÖRLUND 180', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0323",
+    "name": "Sideboard VIKTHOLM 271",
+    "price": 568.8,
+    "stock": 44,
+    "moq": 1,
+    "description": "A modern sideboard named 'Sideboard VIKTHOLM 271', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0324",
+    "name": "Sideboard VALLTORP 925",
+    "price": 505.92,
+    "stock": 47,
+    "moq": 2,
+    "description": "A modern sideboard named 'Sideboard VALLTORP 925', designed with style and functionality in mind."
+  },
+  {
+    "sku": "SDB-0325",
+    "name": "Sideboard ÄLVASUND 750",
+    "price": 481.15,
+    "stock": 3,
+    "moq": 5,
+    "description": "A modern sideboard named 'Sideboard ÄLVASUND 750', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0326",
+    "name": "Office LUNDVIK 768",
+    "price": 871.91,
+    "stock": 42,
+    "moq": 2,
+    "description": "A modern office named 'Office LUNDVIK 768', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0327",
+    "name": "Office MÖRKSTA 55",
+    "price": 379.91,
+    "stock": 60,
+    "moq": 2,
+    "description": "A modern office named 'Office MÖRKSTA 55', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0328",
+    "name": "Office KALLVIK 57",
+    "price": 757.65,
+    "stock": 10,
+    "moq": 1,
+    "description": "A modern office named 'Office KALLVIK 57', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0329",
+    "name": "Office BJÖRBERG 402",
+    "price": 1010.21,
+    "stock": 70,
+    "moq": 10,
+    "description": "A modern office named 'Office BJÖRBERG 402', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0330",
+    "name": "Office FJÄRHOLM 963",
+    "price": 381.32,
+    "stock": 38,
+    "moq": 1,
+    "description": "A modern office named 'Office FJÄRHOLM 963', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0331",
+    "name": "Office KALLMARK 832",
+    "price": 532.8,
+    "stock": 79,
+    "moq": 10,
+    "description": "A modern office named 'Office KALLMARK 832', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0332",
+    "name": "Office TRÄNSUND 439",
+    "price": 1012.19,
+    "stock": 63,
+    "moq": 1,
+    "description": "A modern office named 'Office TRÄNSUND 439', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0333",
+    "name": "Office NORDBERG 264",
+    "price": 215.11,
+    "stock": 54,
+    "moq": 1,
+    "description": "A modern office named 'Office NORDBERG 264', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0334",
+    "name": "Office STRÅBERG 287",
+    "price": 706.26,
+    "stock": 23,
+    "moq": 1,
+    "description": "A modern office named 'Office STRÅBERG 287', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0335",
+    "name": "Office LUNDLUND 391",
+    "price": 1146.41,
+    "stock": 69,
+    "moq": 1,
+    "description": "A modern office named 'Office LUNDLUND 391', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0336",
+    "name": "Office LUNDMARK 699",
+    "price": 590.66,
+    "stock": 81,
+    "moq": 10,
+    "description": "A modern office named 'Office LUNDMARK 699', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0337",
+    "name": "Office KALLHOLM 238",
+    "price": 909.41,
+    "stock": 45,
+    "moq": 1,
+    "description": "A modern office named 'Office KALLHOLM 238', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0338",
+    "name": "Office VALLMARK 57",
+    "price": 892.88,
+    "stock": 80,
+    "moq": 1,
+    "description": "A modern office named 'Office VALLMARK 57', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0339",
+    "name": "Office STRÅTORP 908",
+    "price": 100.99,
+    "stock": 69,
+    "moq": 5,
+    "description": "A modern office named 'Office STRÅTORP 908', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0340",
+    "name": "Office BJÖRSKÄR 802",
+    "price": 946.01,
+    "stock": 59,
+    "moq": 10,
+    "description": "A modern office named 'Office BJÖRSKÄR 802', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0341",
+    "name": "Office HEMNBERG 98",
+    "price": 205.08,
+    "stock": 91,
+    "moq": 10,
+    "description": "A modern office named 'Office HEMNBERG 98', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0342",
+    "name": "Office MÖRKFORS 18",
+    "price": 281.83,
+    "stock": 25,
+    "moq": 1,
+    "description": "A modern office named 'Office MÖRKFORS 18', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0343",
+    "name": "Office VIKTVIK 308",
+    "price": 642.69,
+    "stock": 69,
+    "moq": 10,
+    "description": "A modern office named 'Office VIKTVIK 308', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0344",
+    "name": "Office ÄLVASKÄR 767",
+    "price": 916.28,
+    "stock": 24,
+    "moq": 5,
+    "description": "A modern office named 'Office ÄLVASKÄR 767', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0345",
+    "name": "Office ÄLVAVIK 485",
+    "price": 947.97,
+    "stock": 83,
+    "moq": 5,
+    "description": "A modern office named 'Office ÄLVAVIK 485', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0346",
+    "name": "Office VIKTLUND 515",
+    "price": 969.24,
+    "stock": 55,
+    "moq": 10,
+    "description": "A modern office named 'Office VIKTLUND 515', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0347",
+    "name": "Office VALLVIK 760",
+    "price": 439.89,
+    "stock": 23,
+    "moq": 10,
+    "description": "A modern office named 'Office VALLVIK 760', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0348",
+    "name": "Office MÖRKVIK 164",
+    "price": 1112.96,
+    "stock": 66,
+    "moq": 5,
+    "description": "A modern office named 'Office MÖRKVIK 164', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0349",
+    "name": "Office KALLDAL 34",
+    "price": 538.17,
+    "stock": 55,
+    "moq": 2,
+    "description": "A modern office named 'Office KALLDAL 34', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OFC-0350",
+    "name": "Office NORDMARK 364",
+    "price": 167.99,
+    "stock": 41,
+    "moq": 5,
+    "description": "A modern office named 'Office NORDMARK 364', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0351",
+    "name": "Outdoor SNÖRSTA 983",
+    "price": 743.01,
+    "stock": 54,
+    "moq": 2,
+    "description": "A modern outdoor named 'Outdoor SNÖRSTA 983', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0352",
+    "name": "Outdoor VIKTSTA 787",
+    "price": 564.2,
+    "stock": 93,
+    "moq": 5,
+    "description": "A modern outdoor named 'Outdoor VIKTSTA 787', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0353",
+    "name": "Outdoor SNÖRDAL 879",
+    "price": 785.39,
+    "stock": 7,
+    "moq": 1,
+    "description": "A modern outdoor named 'Outdoor SNÖRDAL 879', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0354",
+    "name": "Outdoor TRÄNSKÄR 116",
+    "price": 640.05,
+    "stock": 95,
+    "moq": 2,
+    "description": "A modern outdoor named 'Outdoor TRÄNSKÄR 116', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0355",
+    "name": "Outdoor NORDMARK 253",
+    "price": 1025.97,
+    "stock": 86,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor NORDMARK 253', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0356",
+    "name": "Outdoor STRÅFORS 994",
+    "price": 127.32,
+    "stock": 99,
+    "moq": 5,
+    "description": "A modern outdoor named 'Outdoor STRÅFORS 994', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0357",
+    "name": "Outdoor KALLHOLM 738",
+    "price": 1141.89,
+    "stock": 4,
+    "moq": 2,
+    "description": "A modern outdoor named 'Outdoor KALLHOLM 738', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0358",
+    "name": "Outdoor HEMNTORP 54",
+    "price": 477.82,
+    "stock": 97,
+    "moq": 1,
+    "description": "A modern outdoor named 'Outdoor HEMNTORP 54', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0359",
+    "name": "Outdoor NORDMARK 432",
+    "price": 471.99,
+    "stock": 40,
+    "moq": 5,
+    "description": "A modern outdoor named 'Outdoor NORDMARK 432', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0360",
+    "name": "Outdoor TRÄNBERG 479",
+    "price": 79.8,
+    "stock": 23,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor TRÄNBERG 479', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0361",
+    "name": "Outdoor TRÄNTORP 604",
+    "price": 185.43,
+    "stock": 99,
+    "moq": 5,
+    "description": "A modern outdoor named 'Outdoor TRÄNTORP 604', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0362",
+    "name": "Outdoor LUNDMARK 146",
+    "price": 1195.82,
+    "stock": 36,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor LUNDMARK 146', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0363",
+    "name": "Outdoor SNÖRDAL 86",
+    "price": 206.09,
+    "stock": 9,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor SNÖRDAL 86', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0364",
+    "name": "Outdoor ÄLVALUND 73",
+    "price": 561.88,
+    "stock": 11,
+    "moq": 5,
+    "description": "A modern outdoor named 'Outdoor ÄLVALUND 73', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0365",
+    "name": "Outdoor STRÅSUND 997",
+    "price": 124.68,
+    "stock": 69,
+    "moq": 5,
+    "description": "A modern outdoor named 'Outdoor STRÅSUND 997', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0366",
+    "name": "Outdoor FJÄRVIK 308",
+    "price": 231.13,
+    "stock": 90,
+    "moq": 2,
+    "description": "A modern outdoor named 'Outdoor FJÄRVIK 308', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0367",
+    "name": "Outdoor HEMNBERG 958",
+    "price": 307.88,
+    "stock": 25,
+    "moq": 2,
+    "description": "A modern outdoor named 'Outdoor HEMNBERG 958', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0368",
+    "name": "Outdoor VALLDAL 727",
+    "price": 618.13,
+    "stock": 46,
+    "moq": 5,
+    "description": "A modern outdoor named 'Outdoor VALLDAL 727', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0369",
+    "name": "Outdoor TRÄNBERG 335",
+    "price": 1180.46,
+    "stock": 16,
+    "moq": 1,
+    "description": "A modern outdoor named 'Outdoor TRÄNBERG 335', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0370",
+    "name": "Outdoor BJÖRSKÄR 249",
+    "price": 507.88,
+    "stock": 91,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor BJÖRSKÄR 249', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0371",
+    "name": "Outdoor LUNDVIK 149",
+    "price": 520.85,
+    "stock": 73,
+    "moq": 1,
+    "description": "A modern outdoor named 'Outdoor LUNDVIK 149', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0372",
+    "name": "Outdoor VALLLUND 121",
+    "price": 788.69,
+    "stock": 57,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor VALLLUND 121', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0373",
+    "name": "Outdoor FJÄRTORP 178",
+    "price": 1059.65,
+    "stock": 99,
+    "moq": 2,
+    "description": "A modern outdoor named 'Outdoor FJÄRTORP 178', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0374",
+    "name": "Outdoor BJÖRFORS 331",
+    "price": 628.29,
+    "stock": 7,
+    "moq": 1,
+    "description": "A modern outdoor named 'Outdoor BJÖRFORS 331', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODC-0375",
+    "name": "Outdoor STRÅTORP 558",
+    "price": 239.36,
+    "stock": 41,
+    "moq": 2,
+    "description": "A modern outdoor named 'Outdoor STRÅTORP 558', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0376",
+    "name": "Outdoor VIKTVIK 472",
+    "price": 1079.16,
+    "stock": 10,
+    "moq": 5,
+    "description": "A modern outdoor named 'Outdoor VIKTVIK 472', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0377",
+    "name": "Outdoor HEMNFORS 281",
+    "price": 1149.8,
+    "stock": 35,
+    "moq": 2,
+    "description": "A modern outdoor named 'Outdoor HEMNFORS 281', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0378",
+    "name": "Outdoor LUNDTORP 171",
+    "price": 663.5,
+    "stock": 64,
+    "moq": 2,
+    "description": "A modern outdoor named 'Outdoor LUNDTORP 171', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0379",
+    "name": "Outdoor VALLSUND 321",
+    "price": 807.54,
+    "stock": 92,
+    "moq": 5,
+    "description": "A modern outdoor named 'Outdoor VALLSUND 321', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0380",
+    "name": "Outdoor TRÄNLUND 51",
+    "price": 1043.35,
+    "stock": 10,
+    "moq": 1,
+    "description": "A modern outdoor named 'Outdoor TRÄNLUND 51', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0381",
+    "name": "Outdoor NORDBERG 161",
+    "price": 292.43,
+    "stock": 73,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor NORDBERG 161', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0382",
+    "name": "Outdoor LUNDVIK 374",
+    "price": 1072.35,
+    "stock": 69,
+    "moq": 5,
+    "description": "A modern outdoor named 'Outdoor LUNDVIK 374', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0383",
+    "name": "Outdoor STRÅMARK 60",
+    "price": 331.61,
+    "stock": 87,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor STRÅMARK 60', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0384",
+    "name": "Outdoor SNÖRSKÄR 276",
+    "price": 133.92,
+    "stock": 7,
+    "moq": 2,
+    "description": "A modern outdoor named 'Outdoor SNÖRSKÄR 276', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0385",
+    "name": "Outdoor FJÄRSTA 984",
+    "price": 606.89,
+    "stock": 26,
+    "moq": 5,
+    "description": "A modern outdoor named 'Outdoor FJÄRSTA 984', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0386",
+    "name": "Outdoor STRÅFORS 579",
+    "price": 1040.71,
+    "stock": 40,
+    "moq": 5,
+    "description": "A modern outdoor named 'Outdoor STRÅFORS 579', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0387",
+    "name": "Outdoor TRÄNMARK 265",
+    "price": 924.76,
+    "stock": 65,
+    "moq": 1,
+    "description": "A modern outdoor named 'Outdoor TRÄNMARK 265', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0388",
+    "name": "Outdoor LUNDFORS 114",
+    "price": 586.44,
+    "stock": 34,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor LUNDFORS 114', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0389",
+    "name": "Outdoor VALLHOLM 134",
+    "price": 161.33,
+    "stock": 37,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor VALLHOLM 134', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0390",
+    "name": "Outdoor KALLSTA 860",
+    "price": 1157.09,
+    "stock": 20,
+    "moq": 5,
+    "description": "A modern outdoor named 'Outdoor KALLSTA 860', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0391",
+    "name": "Outdoor VALLVIK 143",
+    "price": 927.59,
+    "stock": 63,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor VALLVIK 143', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0392",
+    "name": "Outdoor NORDDAL 391",
+    "price": 621.98,
+    "stock": 11,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor NORDDAL 391', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0393",
+    "name": "Outdoor SNÖRSUND 970",
+    "price": 297.42,
+    "stock": 45,
+    "moq": 1,
+    "description": "A modern outdoor named 'Outdoor SNÖRSUND 970', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0394",
+    "name": "Outdoor SNÖRTORP 606",
+    "price": 619.13,
+    "stock": 83,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor SNÖRTORP 606', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0395",
+    "name": "Outdoor ÄLVASKÄR 949",
+    "price": 59.4,
+    "stock": 13,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor ÄLVASKÄR 949', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0396",
+    "name": "Outdoor LUNDSTA 76",
+    "price": 886.63,
+    "stock": 97,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor LUNDSTA 76', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0397",
+    "name": "Outdoor NORDSUND 464",
+    "price": 510.67,
+    "stock": 72,
+    "moq": 2,
+    "description": "A modern outdoor named 'Outdoor NORDSUND 464', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0398",
+    "name": "Outdoor VALLHOLM 104",
+    "price": 381.89,
+    "stock": 49,
+    "moq": 10,
+    "description": "A modern outdoor named 'Outdoor VALLHOLM 104', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0399",
+    "name": "Outdoor VALLBERG 135",
+    "price": 1187.45,
+    "stock": 87,
+    "moq": 1,
+    "description": "A modern outdoor named 'Outdoor VALLBERG 135', designed with style and functionality in mind."
+  },
+  {
+    "sku": "ODT-0400",
+    "name": "Outdoor KALLFORS 61",
+    "price": 502.99,
+    "stock": 43,
+    "moq": 5,
+    "description": "A modern outdoor named 'Outdoor KALLFORS 61', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0401",
+    "name": "Recliner FJÄRLUND 453",
+    "price": 742.83,
+    "stock": 51,
+    "moq": 1,
+    "description": "A modern recliner named 'Recliner FJÄRLUND 453', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0402",
+    "name": "Recliner TRÄNDAL 518",
+    "price": 207.59,
+    "stock": 42,
+    "moq": 10,
+    "description": "A modern recliner named 'Recliner TRÄNDAL 518', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0403",
+    "name": "Recliner KALLDAL 709",
+    "price": 747.2,
+    "stock": 65,
+    "moq": 2,
+    "description": "A modern recliner named 'Recliner KALLDAL 709', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0404",
+    "name": "Recliner STRÅHOLM 372",
+    "price": 416.31,
+    "stock": 50,
+    "moq": 5,
+    "description": "A modern recliner named 'Recliner STRÅHOLM 372', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0405",
+    "name": "Recliner NORDHOLM 291",
+    "price": 1002.53,
+    "stock": 68,
+    "moq": 10,
+    "description": "A modern recliner named 'Recliner NORDHOLM 291', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0406",
+    "name": "Recliner HEMNFORS 914",
+    "price": 988.11,
+    "stock": 47,
+    "moq": 5,
+    "description": "A modern recliner named 'Recliner HEMNFORS 914', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0407",
+    "name": "Recliner FJÄRSTA 638",
+    "price": 721.26,
+    "stock": 92,
+    "moq": 1,
+    "description": "A modern recliner named 'Recliner FJÄRSTA 638', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0408",
+    "name": "Recliner ÄLVALUND 261",
+    "price": 1162.13,
+    "stock": 100,
+    "moq": 2,
+    "description": "A modern recliner named 'Recliner ÄLVALUND 261', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0409",
+    "name": "Recliner SNÖRSKÄR 520",
+    "price": 602.52,
+    "stock": 67,
+    "moq": 10,
+    "description": "A modern recliner named 'Recliner SNÖRSKÄR 520', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0410",
+    "name": "Recliner STRÅMARK 500",
+    "price": 832.84,
+    "stock": 4,
+    "moq": 1,
+    "description": "A modern recliner named 'Recliner STRÅMARK 500', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0411",
+    "name": "Recliner KALLTORP 296",
+    "price": 557.19,
+    "stock": 53,
+    "moq": 2,
+    "description": "A modern recliner named 'Recliner KALLTORP 296', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0412",
+    "name": "Recliner STRÅHOLM 439",
+    "price": 284.48,
+    "stock": 64,
+    "moq": 10,
+    "description": "A modern recliner named 'Recliner STRÅHOLM 439', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0413",
+    "name": "Recliner NORDSUND 915",
+    "price": 208.79,
+    "stock": 26,
+    "moq": 5,
+    "description": "A modern recliner named 'Recliner NORDSUND 915', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0414",
+    "name": "Recliner VALLMARK 265",
+    "price": 483.35,
+    "stock": 22,
+    "moq": 10,
+    "description": "A modern recliner named 'Recliner VALLMARK 265', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0415",
+    "name": "Recliner SNÖRMARK 823",
+    "price": 457.43,
+    "stock": 98,
+    "moq": 5,
+    "description": "A modern recliner named 'Recliner SNÖRMARK 823', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0416",
+    "name": "Recliner KALLDAL 810",
+    "price": 1150.94,
+    "stock": 35,
+    "moq": 5,
+    "description": "A modern recliner named 'Recliner KALLDAL 810', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0417",
+    "name": "Recliner TRÄNBERG 501",
+    "price": 936.85,
+    "stock": 90,
+    "moq": 2,
+    "description": "A modern recliner named 'Recliner TRÄNBERG 501', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0418",
+    "name": "Recliner MÖRKFORS 362",
+    "price": 601.77,
+    "stock": 71,
+    "moq": 5,
+    "description": "A modern recliner named 'Recliner MÖRKFORS 362', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0419",
+    "name": "Recliner ÄLVAMARK 339",
+    "price": 709.5,
+    "stock": 69,
+    "moq": 10,
+    "description": "A modern recliner named 'Recliner ÄLVAMARK 339', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0420",
+    "name": "Recliner STRÅSKÄR 194",
+    "price": 446.9,
+    "stock": 98,
+    "moq": 2,
+    "description": "A modern recliner named 'Recliner STRÅSKÄR 194', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0421",
+    "name": "Recliner KALLBERG 621",
+    "price": 380.77,
+    "stock": 91,
+    "moq": 1,
+    "description": "A modern recliner named 'Recliner KALLBERG 621', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0422",
+    "name": "Recliner NORDSTA 927",
+    "price": 804.37,
+    "stock": 95,
+    "moq": 10,
+    "description": "A modern recliner named 'Recliner NORDSTA 927', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0423",
+    "name": "Recliner VALLSKÄR 69",
+    "price": 1002.14,
+    "stock": 34,
+    "moq": 5,
+    "description": "A modern recliner named 'Recliner VALLSKÄR 69', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0424",
+    "name": "Recliner VALLFORS 552",
+    "price": 758.03,
+    "stock": 75,
+    "moq": 2,
+    "description": "A modern recliner named 'Recliner VALLFORS 552', designed with style and functionality in mind."
+  },
+  {
+    "sku": "RCL-0425",
+    "name": "Recliner VIKTLUND 248",
+    "price": 820.31,
+    "stock": 67,
+    "moq": 2,
+    "description": "A modern recliner named 'Recliner VIKTLUND 248', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0426",
+    "name": "Loveseat FJÄRTORP 263",
+    "price": 165.23,
+    "stock": 42,
+    "moq": 10,
+    "description": "A modern loveseat named 'Loveseat FJÄRTORP 263', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0427",
+    "name": "Loveseat SNÖRVIK 282",
+    "price": 936.38,
+    "stock": 0,
+    "moq": 2,
+    "description": "A modern loveseat named 'Loveseat SNÖRVIK 282', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0428",
+    "name": "Loveseat MÖRKSTA 792",
+    "price": 1125.29,
+    "stock": 60,
+    "moq": 10,
+    "description": "A modern loveseat named 'Loveseat MÖRKSTA 792', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0429",
+    "name": "Loveseat NORDLUND 876",
+    "price": 1158.5,
+    "stock": 41,
+    "moq": 5,
+    "description": "A modern loveseat named 'Loveseat NORDLUND 876', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0430",
+    "name": "Loveseat VALLDAL 373",
+    "price": 152.88,
+    "stock": 73,
+    "moq": 2,
+    "description": "A modern loveseat named 'Loveseat VALLDAL 373', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0431",
+    "name": "Loveseat FJÄRHOLM 252",
+    "price": 530.57,
+    "stock": 22,
+    "moq": 1,
+    "description": "A modern loveseat named 'Loveseat FJÄRHOLM 252', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0432",
+    "name": "Loveseat ÄLVABERG 835",
+    "price": 619.69,
+    "stock": 95,
+    "moq": 5,
+    "description": "A modern loveseat named 'Loveseat ÄLVABERG 835', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0433",
+    "name": "Loveseat TRÄNBERG 945",
+    "price": 393.15,
+    "stock": 77,
+    "moq": 1,
+    "description": "A modern loveseat named 'Loveseat TRÄNBERG 945', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0434",
+    "name": "Loveseat ÄLVASTA 730",
+    "price": 572.5,
+    "stock": 82,
+    "moq": 10,
+    "description": "A modern loveseat named 'Loveseat ÄLVASTA 730', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0435",
+    "name": "Loveseat TRÄNBERG 980",
+    "price": 629.84,
+    "stock": 34,
+    "moq": 2,
+    "description": "A modern loveseat named 'Loveseat TRÄNBERG 980', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0436",
+    "name": "Loveseat ÄLVALUND 155",
+    "price": 236.87,
+    "stock": 58,
+    "moq": 5,
+    "description": "A modern loveseat named 'Loveseat ÄLVALUND 155', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0437",
+    "name": "Loveseat ÄLVAVIK 866",
+    "price": 897.11,
+    "stock": 37,
+    "moq": 2,
+    "description": "A modern loveseat named 'Loveseat ÄLVAVIK 866', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0438",
+    "name": "Loveseat VALLFORS 565",
+    "price": 1034.57,
+    "stock": 51,
+    "moq": 10,
+    "description": "A modern loveseat named 'Loveseat VALLFORS 565', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0439",
+    "name": "Loveseat HEMNHOLM 512",
+    "price": 510.96,
+    "stock": 12,
+    "moq": 2,
+    "description": "A modern loveseat named 'Loveseat HEMNHOLM 512', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0440",
+    "name": "Loveseat KALLTORP 67",
+    "price": 422.14,
+    "stock": 31,
+    "moq": 1,
+    "description": "A modern loveseat named 'Loveseat KALLTORP 67', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0441",
+    "name": "Loveseat NORDLUND 234",
+    "price": 320.85,
+    "stock": 96,
+    "moq": 5,
+    "description": "A modern loveseat named 'Loveseat NORDLUND 234', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0442",
+    "name": "Loveseat KALLMARK 499",
+    "price": 719.83,
+    "stock": 73,
+    "moq": 1,
+    "description": "A modern loveseat named 'Loveseat KALLMARK 499', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0443",
+    "name": "Loveseat KALLBERG 949",
+    "price": 463.48,
+    "stock": 30,
+    "moq": 1,
+    "description": "A modern loveseat named 'Loveseat KALLBERG 949', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0444",
+    "name": "Loveseat ÄLVAVIK 835",
+    "price": 402.83,
+    "stock": 51,
+    "moq": 5,
+    "description": "A modern loveseat named 'Loveseat ÄLVAVIK 835', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0445",
+    "name": "Loveseat FJÄRBERG 744",
+    "price": 1103.55,
+    "stock": 37,
+    "moq": 5,
+    "description": "A modern loveseat named 'Loveseat FJÄRBERG 744', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0446",
+    "name": "Loveseat FJÄRBERG 70",
+    "price": 1150.96,
+    "stock": 61,
+    "moq": 2,
+    "description": "A modern loveseat named 'Loveseat FJÄRBERG 70', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0447",
+    "name": "Loveseat KALLHOLM 610",
+    "price": 1187.16,
+    "stock": 47,
+    "moq": 10,
+    "description": "A modern loveseat named 'Loveseat KALLHOLM 610', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0448",
+    "name": "Loveseat TRÄNHOLM 802",
+    "price": 668.15,
+    "stock": 85,
+    "moq": 2,
+    "description": "A modern loveseat named 'Loveseat TRÄNHOLM 802', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0449",
+    "name": "Loveseat LUNDMARK 891",
+    "price": 917.95,
+    "stock": 100,
+    "moq": 1,
+    "description": "A modern loveseat named 'Loveseat LUNDMARK 891', designed with style and functionality in mind."
+  },
+  {
+    "sku": "LVS-0450",
+    "name": "Loveseat VIKTTORP 392",
+    "price": 859.33,
+    "stock": 9,
+    "moq": 1,
+    "description": "A modern loveseat named 'Loveseat VIKTTORP 392', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0451",
+    "name": "Ottoman TRÄNSUND 415",
+    "price": 679.8,
+    "stock": 64,
+    "moq": 2,
+    "description": "A modern ottoman named 'Ottoman TRÄNSUND 415', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0452",
+    "name": "Ottoman ÄLVATORP 354",
+    "price": 427.34,
+    "stock": 66,
+    "moq": 10,
+    "description": "A modern ottoman named 'Ottoman ÄLVATORP 354', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0453",
+    "name": "Ottoman HEMNBERG 149",
+    "price": 286.21,
+    "stock": 74,
+    "moq": 10,
+    "description": "A modern ottoman named 'Ottoman HEMNBERG 149', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0454",
+    "name": "Ottoman FJÄRDAL 820",
+    "price": 562.31,
+    "stock": 7,
+    "moq": 10,
+    "description": "A modern ottoman named 'Ottoman FJÄRDAL 820', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0455",
+    "name": "Ottoman SNÖRFORS 674",
+    "price": 527.74,
+    "stock": 72,
+    "moq": 1,
+    "description": "A modern ottoman named 'Ottoman SNÖRFORS 674', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0456",
+    "name": "Ottoman VIKTHOLM 734",
+    "price": 977.95,
+    "stock": 92,
+    "moq": 1,
+    "description": "A modern ottoman named 'Ottoman VIKTHOLM 734', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0457",
+    "name": "Ottoman MÖRKLUND 815",
+    "price": 988.92,
+    "stock": 95,
+    "moq": 2,
+    "description": "A modern ottoman named 'Ottoman MÖRKLUND 815', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0458",
+    "name": "Ottoman VIKTVIK 691",
+    "price": 537.25,
+    "stock": 89,
+    "moq": 1,
+    "description": "A modern ottoman named 'Ottoman VIKTVIK 691', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0459",
+    "name": "Ottoman ÄLVAHOLM 397",
+    "price": 1184.06,
+    "stock": 60,
+    "moq": 1,
+    "description": "A modern ottoman named 'Ottoman ÄLVAHOLM 397', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0460",
+    "name": "Ottoman HEMNSKÄR 140",
+    "price": 256.98,
+    "stock": 17,
+    "moq": 10,
+    "description": "A modern ottoman named 'Ottoman HEMNSKÄR 140', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0461",
+    "name": "Ottoman FJÄRSTA 981",
+    "price": 565.82,
+    "stock": 48,
+    "moq": 10,
+    "description": "A modern ottoman named 'Ottoman FJÄRSTA 981', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0462",
+    "name": "Ottoman TRÄNLUND 410",
+    "price": 1158.77,
+    "stock": 69,
+    "moq": 2,
+    "description": "A modern ottoman named 'Ottoman TRÄNLUND 410', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0463",
+    "name": "Ottoman VALLLUND 43",
+    "price": 255.24,
+    "stock": 68,
+    "moq": 10,
+    "description": "A modern ottoman named 'Ottoman VALLLUND 43', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0464",
+    "name": "Ottoman FJÄRLUND 335",
+    "price": 1175.53,
+    "stock": 0,
+    "moq": 1,
+    "description": "A modern ottoman named 'Ottoman FJÄRLUND 335', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0465",
+    "name": "Ottoman VALLLUND 236",
+    "price": 824.52,
+    "stock": 69,
+    "moq": 10,
+    "description": "A modern ottoman named 'Ottoman VALLLUND 236', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0466",
+    "name": "Ottoman SNÖRLUND 116",
+    "price": 314.11,
+    "stock": 58,
+    "moq": 5,
+    "description": "A modern ottoman named 'Ottoman SNÖRLUND 116', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0467",
+    "name": "Ottoman BJÖRHOLM 349",
+    "price": 266.75,
+    "stock": 92,
+    "moq": 1,
+    "description": "A modern ottoman named 'Ottoman BJÖRHOLM 349', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0468",
+    "name": "Ottoman TRÄNTORP 253",
+    "price": 809.23,
+    "stock": 78,
+    "moq": 1,
+    "description": "A modern ottoman named 'Ottoman TRÄNTORP 253', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0469",
+    "name": "Ottoman VIKTBERG 181",
+    "price": 127.38,
+    "stock": 76,
+    "moq": 1,
+    "description": "A modern ottoman named 'Ottoman VIKTBERG 181', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0470",
+    "name": "Ottoman SNÖRTORP 851",
+    "price": 822.83,
+    "stock": 6,
+    "moq": 2,
+    "description": "A modern ottoman named 'Ottoman SNÖRTORP 851', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0471",
+    "name": "Ottoman TRÄNSUND 664",
+    "price": 554.81,
+    "stock": 69,
+    "moq": 2,
+    "description": "A modern ottoman named 'Ottoman TRÄNSUND 664', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0472",
+    "name": "Ottoman TRÄNBERG 467",
+    "price": 629.48,
+    "stock": 37,
+    "moq": 2,
+    "description": "A modern ottoman named 'Ottoman TRÄNBERG 467', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0473",
+    "name": "Ottoman KALLSKÄR 224",
+    "price": 737.61,
+    "stock": 86,
+    "moq": 5,
+    "description": "A modern ottoman named 'Ottoman KALLSKÄR 224', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0474",
+    "name": "Ottoman NORDTORP 368",
+    "price": 1057.7,
+    "stock": 84,
+    "moq": 2,
+    "description": "A modern ottoman named 'Ottoman NORDTORP 368', designed with style and functionality in mind."
+  },
+  {
+    "sku": "OTM-0475",
+    "name": "Ottoman HEMNTORP 747",
+    "price": 366.43,
+    "stock": 71,
+    "moq": 2,
+    "description": "A modern ottoman named 'Ottoman HEMNTORP 747', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0476",
+    "name": "Console KALLSTA 405",
+    "price": 619.96,
+    "stock": 44,
+    "moq": 10,
+    "description": "A modern console named 'Console KALLSTA 405', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0477",
+    "name": "Console BJÖRDAL 180",
+    "price": 528.77,
+    "stock": 19,
+    "moq": 5,
+    "description": "A modern console named 'Console BJÖRDAL 180', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0478",
+    "name": "Console STRÅFORS 912",
+    "price": 917.58,
+    "stock": 60,
+    "moq": 2,
+    "description": "A modern console named 'Console STRÅFORS 912', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0479",
+    "name": "Console STRÅBERG 569",
+    "price": 1036.17,
+    "stock": 18,
+    "moq": 10,
+    "description": "A modern console named 'Console STRÅBERG 569', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0480",
+    "name": "Console STRÅTORP 858",
+    "price": 524.58,
+    "stock": 53,
+    "moq": 2,
+    "description": "A modern console named 'Console STRÅTORP 858', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0481",
+    "name": "Console BJÖRLUND 676",
+    "price": 343.24,
+    "stock": 42,
+    "moq": 1,
+    "description": "A modern console named 'Console BJÖRLUND 676', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0482",
+    "name": "Console VALLSUND 240",
+    "price": 476.74,
+    "stock": 68,
+    "moq": 2,
+    "description": "A modern console named 'Console VALLSUND 240', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0483",
+    "name": "Console FJÄRFORS 85",
+    "price": 483.74,
+    "stock": 77,
+    "moq": 1,
+    "description": "A modern console named 'Console FJÄRFORS 85', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0484",
+    "name": "Console VALLSTA 311",
+    "price": 975.35,
+    "stock": 75,
+    "moq": 2,
+    "description": "A modern console named 'Console VALLSTA 311', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0485",
+    "name": "Console KALLBERG 277",
+    "price": 1049.89,
+    "stock": 42,
+    "moq": 5,
+    "description": "A modern console named 'Console KALLBERG 277', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0486",
+    "name": "Console LUNDTORP 360",
+    "price": 1127.73,
+    "stock": 94,
+    "moq": 1,
+    "description": "A modern console named 'Console LUNDTORP 360', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0487",
+    "name": "Console FJÄRDAL 174",
+    "price": 849.97,
+    "stock": 90,
+    "moq": 2,
+    "description": "A modern console named 'Console FJÄRDAL 174', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0488",
+    "name": "Console TRÄNTORP 570",
+    "price": 684.89,
+    "stock": 99,
+    "moq": 5,
+    "description": "A modern console named 'Console TRÄNTORP 570', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0489",
+    "name": "Console LUNDBERG 618",
+    "price": 663.7,
+    "stock": 45,
+    "moq": 5,
+    "description": "A modern console named 'Console LUNDBERG 618', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0490",
+    "name": "Console ÄLVAFORS 731",
+    "price": 639.74,
+    "stock": 63,
+    "moq": 10,
+    "description": "A modern console named 'Console ÄLVAFORS 731', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0491",
+    "name": "Console KALLDAL 975",
+    "price": 1178.52,
+    "stock": 60,
+    "moq": 5,
+    "description": "A modern console named 'Console KALLDAL 975', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0492",
+    "name": "Console SNÖRHOLM 631",
+    "price": 409.86,
+    "stock": 5,
+    "moq": 2,
+    "description": "A modern console named 'Console SNÖRHOLM 631', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0493",
+    "name": "Console STRÅHOLM 64",
+    "price": 349.89,
+    "stock": 74,
+    "moq": 10,
+    "description": "A modern console named 'Console STRÅHOLM 64', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0494",
+    "name": "Console LUNDBERG 220",
+    "price": 275.62,
+    "stock": 29,
+    "moq": 10,
+    "description": "A modern console named 'Console LUNDBERG 220', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0495",
+    "name": "Console NORDDAL 723",
+    "price": 683.24,
+    "stock": 87,
+    "moq": 5,
+    "description": "A modern console named 'Console NORDDAL 723', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0496",
+    "name": "Console MÖRKMARK 281",
+    "price": 994.83,
+    "stock": 92,
+    "moq": 10,
+    "description": "A modern console named 'Console MÖRKMARK 281', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0497",
+    "name": "Console SNÖRSKÄR 314",
+    "price": 892.69,
+    "stock": 45,
+    "moq": 2,
+    "description": "A modern console named 'Console SNÖRSKÄR 314', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0498",
+    "name": "Console NORDTORP 60",
+    "price": 678.53,
+    "stock": 23,
+    "moq": 1,
+    "description": "A modern console named 'Console NORDTORP 60', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0499",
+    "name": "Console STRÅLUND 572",
+    "price": 1023.7,
+    "stock": 85,
+    "moq": 1,
+    "description": "A modern console named 'Console STRÅLUND 572', designed with style and functionality in mind."
+  },
+  {
+    "sku": "CST-0500",
+    "name": "Console BJÖRHOLM 65",
+    "price": 208.12,
+    "stock": 80,
+    "moq": 2,
+    "description": "A modern console named 'Console BJÖRHOLM 65', designed with style and functionality in mind."
+  }
+]
