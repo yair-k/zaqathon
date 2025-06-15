@@ -28,8 +28,7 @@ export default async function (fastify: FastifyInstance) {  // Get all orders
 
     const orderData: OrderJSON = JSON.parse(order.data);
     return orderData;  });
-  
-  // Get original email content
+    // Get original email content
   fastify.get<{ Params: { id: string } }>('/orders/:id/email', async (request, reply) => {
     const { id } = request.params;
     const order = db.getOrder(id);
@@ -41,11 +40,18 @@ export default async function (fastify: FastifyInstance) {  // Get all orders
 
     // Get the email file path from the order
     const emailFile = order.email_file;
-    const emailPath = path.join(__dirname, '../../../data', emailFile);
+      // Normalize the path by replacing Windows backslashes with forward slashes
+    const normalizedEmailFile = emailFile.replace(/\\/g, '/');
+    const emailPath = path.join(__dirname, '../../../../data', normalizedEmailFile);
+    
+    console.log(`Looking for email file: ${emailFile}`);
+    console.log(`Normalized email file: ${normalizedEmailFile}`);
+    console.log(`Full email path: ${emailPath}`);
+    console.log(`File exists: ${fs.existsSync(emailPath)}`);
     
     if (!fs.existsSync(emailPath)) {
       reply.code(404);
-      return { error: 'Email file not found' };
+      return { error: 'Email file not found', path: emailPath };
     }
 
     try {
